@@ -22,18 +22,24 @@ The narrative of this project will mainly focus on the SDG goal #12 -
 - [Harzadous Waste per capital](#)
 
 ### Concept 2 
-<inserting Image>
+![sketch2](https://github.com/Chayanitoey/MajorStudio1/blob/main/Quant%20Project/Concept%202/concept2Sketch.jpg)
 
-**Goal**: Showing how each country are doing on the 12.3 indicator (food waste) and where they are at & going. This visualization aims to encourage citizens from all mentioned countries to acknowledge the problem and take actions in order to accomplish the goal. 
+
+**Goal**: 
+
+Showing how each country are doing on the 12.3 indicator (food waste) and where they are at & going. This visualization aims to encourage citizens from all mentioned countries to acknowledge the problem and take actions in order to accomplish the goal. 
 Since this indicator is measurable and has a solid KPI, we will be focusing solely on 12.3 indicator which is 'By 2030, halve per capita global food waste at the retail and consumer levels and reduce food losses along production and supply chains, including post-harvest losses'
 
 **Data sets**: 
 - [Food lost data set from FAO](#)
 
 ### Concept 3 
-<inserting Image>
+![sketch3](https://github.com/Chayanitoey/MajorStudio1/blob/main/Quant%20Project/Concept%203/concept3Sketch.jpg)
 
-**Goal**: The focal point will be mainly about the countries that have a large amount of material consumption and waste generation. Calling out those countries from the lack of implemented policies is essential to reach the goal by 2030. 
+
+**Goal**: 
+
+The focal point will be mainly about the countries that have a large amount of material consumption and waste generation. Calling out those countries from the lack of implemented policies is essential to reach the goal by 2030. 
 The site visitors will learn more about the hidden facts from multiple data sets and gain insights on how to take action for their nations. 
 
 **Data sets**: 
