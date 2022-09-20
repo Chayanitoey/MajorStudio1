@@ -1,0 +1,1416 @@
+[
+  {
+    "GeoAreaCode": 4,
+    "GeoAreaName": "Afghanistan",
+    "Total": 125.02,
+    "lat": 33.93911,
+    "lng": 67.709953
+  },
+  {
+    "GeoAreaCode": 8,
+    "GeoAreaName": "Albania",
+    "Total": 126.07,
+    "lat": 41.153332,
+    "lng": 20.168331
+  },
+  {
+    "GeoAreaCode": 12,
+    "GeoAreaName": "Algeria",
+    "Total": 134.3,
+    "lat": 28.033886,
+    "lng": 1.659626
+  },
+  {
+    "GeoAreaCode": 16,
+    "GeoAreaName": "American Samoa",
+    "Total": 118.98,
+    "lat": -14.270972,
+    "lng": -170.132217
+  },
+  {
+    "GeoAreaCode": 20,
+    "GeoAreaName": "Andorra",
+    "Total": 139.48,
+    "lat": 42.546245,
+    "lng": 1.601554
+  },
+  {
+    "GeoAreaCode": 24,
+    "GeoAreaName": "Angola",
+    "Total": 142.88,
+    "lat": -11.202692,
+    "lng": 17.873887
+  },
+  {
+    "GeoAreaCode": 28,
+    "GeoAreaName": "Antigua and Barbuda",
+    "Total": 112.29,
+    "lat": 17.060816,
+    "lng": -61.796428
+  },
+  {
+    "GeoAreaCode": 32,
+    "GeoAreaName": "Argentina",
+    "Total": 132.95,
+    "lat": -38.416097,
+    "lng": -63.616672
+  },
+  {
+    "GeoAreaCode": 51,
+    "GeoAreaName": "Armenia",
+    "Total": 329.23,
+    "lat": 40.069099,
+    "lng": 45.038189
+  },
+  {
+    "GeoAreaCode": 533,
+    "GeoAreaName": "Aruba",
+    "Total": 112.29,
+    "lat": 12.52111,
+    "lng": -69.968338
+  },
+  {
+    "GeoAreaCode": 36,
+    "GeoAreaName": "Australia",
+    "Total": 132.83,
+    "lat": -25.274398,
+    "lng": 133.775136
+  },
+  {
+    "GeoAreaCode": 31,
+    "GeoAreaName": "Azerbaijan",
+    "Total": 167.92,
+    "lat": 40.143105,
+    "lng": 47.576927
+  },
+  {
+    "GeoAreaCode": 48,
+    "GeoAreaName": "Bahrain",
+    "Total": 226.45,
+    "lat": 25.930414,
+    "lng": 50.637772
+  },
+  {
+    "GeoAreaCode": 50,
+    "GeoAreaName": "Bangladesh",
+    "Total": 84.1,
+    "lat": 23.684994,
+    "lng": 90.356331
+  },
+  {
+    "GeoAreaCode": 52,
+    "GeoAreaName": "Barbados",
+    "Total": 112.29,
+    "lat": 13.193887,
+    "lng": -59.543198
+  },
+  {
+    "GeoAreaCode": 112,
+    "GeoAreaName": "Belarus",
+    "Total": 330.17,
+    "lat": 53.709807,
+    "lng": 27.953389
+  },
+  {
+    "GeoAreaCode": 56,
+    "GeoAreaName": "Belgium",
+    "Total": 79.34,
+    "lat": 50.503887,
+    "lng": 4.469936
+  },
+  {
+    "GeoAreaCode": 204,
+    "GeoAreaName": "Benin",
+    "Total": 142.88,
+    "lat": 9.30769,
+    "lng": 2.315834
+  },
+  {
+    "GeoAreaCode": 60,
+    "GeoAreaName": "Bermuda",
+    "Total": 140.85,
+    "lat": 32.321384,
+    "lng": -64.75737
+  },
+  {
+    "GeoAreaCode": 64,
+    "GeoAreaName": "Bhutan",
+    "Total": 123.74,
+    "lat": 27.514162,
+    "lng": 90.433601
+  },
+  {
+    "GeoAreaCode": 70,
+    "GeoAreaName": "Bosnia and Herzegovina",
+    "Total": 126.07,
+    "lat": 43.915886,
+    "lng": 17.679076
+  },
+  {
+    "GeoAreaCode": 72,
+    "GeoAreaName": "Botswana",
+    "Total": 135.23,
+    "lat": -22.328474,
+    "lng": 24.684866
+  },
+  {
+    "GeoAreaCode": 76,
+    "GeoAreaName": "Brazil",
+    "Total": 102.89,
+    "lat": -14.235004,
+    "lng": -51.92528
+  },
+  {
+    "GeoAreaCode": 92,
+    "GeoAreaName": "British Virgin Islands",
+    "Total": 112.18,
+    "lat": 18.420695,
+    "lng": -64.639968
+  },
+  {
+    "GeoAreaCode": 96,
+    "GeoAreaName": "Brunei",
+    "Total": 118.56,
+    "lat": 4.535277,
+    "lng": 114.727669
+  },
+  {
+    "GeoAreaCode": 100,
+    "GeoAreaName": "Bulgaria",
+    "Total": 111.67,
+    "lat": 42.733883,
+    "lng": 25.48583
+  },
+  {
+    "GeoAreaCode": 854,
+    "GeoAreaName": "Burkina Faso",
+    "Total": 145.98,
+    "lat": 12.238333,
+    "lng": -1.561593
+  },
+  {
+    "GeoAreaCode": 108,
+    "GeoAreaName": "Burundi",
+    "Total": 145.98,
+    "lat": -3.373056,
+    "lng": 29.918886
+  },
+  {
+    "GeoAreaCode": 116,
+    "GeoAreaName": "Cambodia",
+    "Total": 129.63,
+    "lat": 12.565679,
+    "lng": 104.990963
+  },
+  {
+    "GeoAreaCode": 120,
+    "GeoAreaName": "Cameroon",
+    "Total": 142.88,
+    "lat": 7.369722,
+    "lng": 12.354722
+  },
+  {
+    "GeoAreaCode": 124,
+    "GeoAreaName": "Canada",
+    "Total": 116.92,
+    "lat": 56.130366,
+    "lng": -106.346771
+  },
+  {
+    "GeoAreaCode": 132,
+    "GeoAreaName": "Cape Verde",
+    "Total": 142.87,
+    "lat": 16.002082,
+    "lng": -24.013197
+  },
+  {
+    "GeoAreaCode": 136,
+    "GeoAreaName": "Cayman Islands",
+    "Total": 112.22,
+    "lat": 19.513469,
+    "lng": -80.566956
+  },
+  {
+    "GeoAreaCode": 140,
+    "GeoAreaName": "Central African Republic",
+    "Total": 145.98,
+    "lat": 6.611111,
+    "lng": 20.939444
+  },
+  {
+    "GeoAreaCode": 148,
+    "GeoAreaName": "Chad",
+    "Total": 145.98,
+    "lat": 15.454166,
+    "lng": 18.732207
+  },
+  {
+    "GeoAreaCode": 152,
+    "GeoAreaName": "Chile",
+    "Total": 112.3,
+    "lat": -35.675147,
+    "lng": -71.542969
+  },
+  {
+    "GeoAreaCode": 156,
+    "GeoAreaName": "China",
+    "Total": 181.83,
+    "lat": 35.86166,
+    "lng": 104.195397
+  },
+  {
+    "GeoAreaCode": 170,
+    "GeoAreaName": "Colombia",
+    "Total": 113.72,
+    "lat": 4.570868,
+    "lng": -74.297333
+  },
+  {
+    "GeoAreaCode": 174,
+    "GeoAreaName": "Comoros",
+    "Total": 142.88,
+    "lat": -11.875001,
+    "lng": 43.872219
+  },
+  {
+    "GeoAreaCode": 180,
+    "GeoAreaName": "Congo [DRC]",
+    "Total": 145.98,
+    "lat": -4.038333,
+    "lng": 21.758664
+  },
+  {
+    "GeoAreaCode": 188,
+    "GeoAreaName": "Costa Rica",
+    "Total": 115.72,
+    "lat": 9.748917,
+    "lng": -83.753428
+  },
+  {
+    "GeoAreaCode": 384,
+    "GeoAreaName": "Côte d'Ivoire",
+    "Total": 142.88,
+    "lat": 7.539989,
+    "lng": -5.54708
+  },
+  {
+    "GeoAreaCode": 191,
+    "GeoAreaName": "Croatia",
+    "Total": 122.65,
+    "lat": 45.1,
+    "lng": 15.2
+  },
+  {
+    "GeoAreaCode": 192,
+    "GeoAreaName": "Cuba",
+    "Total": 138.82,
+    "lat": 21.521757,
+    "lng": -77.781167
+  },
+  {
+    "GeoAreaCode": 531,
+    "GeoAreaName": "Curaçao",
+    "Total": 112.29,
+    "lat": 12.1696,
+    "lng": 68.99
+  },
+  {
+    "GeoAreaCode": 196,
+    "GeoAreaName": "Cyprus",
+    "Total": 132.92,
+    "lat": 35.126413,
+    "lng": 33.429859
+  },
+  {
+    "GeoAreaCode": 203,
+    "GeoAreaName": "Czech Republic",
+    "Total": 108.25,
+    "lat": 49.817492,
+    "lng": 15.472962
+  },
+  {
+    "GeoAreaCode": 208,
+    "GeoAreaName": "Denmark",
+    "Total": 131.77,
+    "lat": 56.26392,
+    "lng": 9.501785
+  },
+  {
+    "GeoAreaCode": 262,
+    "GeoAreaName": "Djibouti",
+    "Total": 142.89,
+    "lat": 11.825138,
+    "lng": 42.590275
+  },
+  {
+    "GeoAreaCode": 212,
+    "GeoAreaName": "Dominica",
+    "Total": 115.71,
+    "lat": 15.414999,
+    "lng": -61.370976
+  },
+  {
+    "GeoAreaCode": 214,
+    "GeoAreaName": "Dominican Republic",
+    "Total": 115.72,
+    "lat": 18.735693,
+    "lng": -70.162651
+  },
+  {
+    "GeoAreaCode": 218,
+    "GeoAreaName": "Ecuador",
+    "Total": 115.72,
+    "lat": -1.831239,
+    "lng": -78.183406
+  },
+  {
+    "GeoAreaCode": 818,
+    "GeoAreaName": "Egypt",
+    "Total": 134.3,
+    "lat": 26.820553,
+    "lng": 30.802498
+  },
+  {
+    "GeoAreaCode": 222,
+    "GeoAreaName": "El Salvador",
+    "Total": 123.37,
+    "lat": 13.794185,
+    "lng": -88.89653
+  },
+  {
+    "GeoAreaCode": 226,
+    "GeoAreaName": "Equatorial Guinea",
+    "Total": 135.23,
+    "lat": 1.650801,
+    "lng": 10.267895
+  },
+  {
+    "GeoAreaCode": 232,
+    "GeoAreaName": "Eritrea",
+    "Total": 145.98,
+    "lat": 15.179384,
+    "lng": 39.782334
+  },
+  {
+    "GeoAreaCode": 748,
+    "GeoAreaName": "Eswatini",
+    "Total": 142.88,
+    "lat": 26.5225,
+    "lng": 31.4659
+  },
+  {
+    "GeoAreaCode": 231,
+    "GeoAreaName": "Ethiopia",
+    "Total": 135.43,
+    "lat": 9.145,
+    "lng": 40.489673
+  },
+  {
+    "GeoAreaCode": 234,
+    "GeoAreaName": "Faroe Islands",
+    "Total": 114.62,
+    "lat": 61.892635,
+    "lng": -6.911806
+  },
+  {
+    "GeoAreaCode": 242,
+    "GeoAreaName": "Fiji",
+    "Total": 119.01,
+    "lat": -16.578193,
+    "lng": 179.414413
+  },
+  {
+    "GeoAreaCode": 246,
+    "GeoAreaName": "Finland",
+    "Total": 101.54,
+    "lat": 61.92411,
+    "lng": 25.748151
+  },
+  {
+    "GeoAreaCode": 250,
+    "GeoAreaName": "France",
+    "Total": 134.88,
+    "lat": 46.227638,
+    "lng": 2.213749
+  },
+  {
+    "GeoAreaCode": 258,
+    "GeoAreaName": "French Polynesia",
+    "Total": 117.08,
+    "lat": -17.679742,
+    "lng": -149.406843
+  },
+  {
+    "GeoAreaCode": 266,
+    "GeoAreaName": "Gabon",
+    "Total": 135.23,
+    "lat": -0.803689,
+    "lng": 11.609444
+  },
+  {
+    "GeoAreaCode": 270,
+    "GeoAreaName": "Gambia",
+    "Total": 145.98,
+    "lat": 13.443182,
+    "lng": -15.310139
+  },
+  {
+    "GeoAreaCode": 268,
+    "GeoAreaName": "Georgia",
+    "Total": 144.26,
+    "lat": 42.315407,
+    "lng": 43.356892
+  },
+  {
+    "GeoAreaCode": 276,
+    "GeoAreaName": "Germany",
+    "Total": 101.54,
+    "lat": 51.165691,
+    "lng": 10.451526
+  },
+  {
+    "GeoAreaCode": 288,
+    "GeoAreaName": "Ghana",
+    "Total": 127.3,
+    "lat": 7.946527,
+    "lng": -1.023194
+  },
+  {
+    "GeoAreaCode": 300,
+    "GeoAreaName": "Greece",
+    "Total": 174.65,
+    "lat": 39.074208,
+    "lng": 21.824312
+  },
+  {
+    "GeoAreaCode": 304,
+    "GeoAreaName": "Greenland",
+    "Total": 112.15,
+    "lat": 71.706936,
+    "lng": -42.604303
+  },
+  {
+    "GeoAreaCode": 308,
+    "GeoAreaName": "Grenada",
+    "Total": 115.72,
+    "lat": 12.262776,
+    "lng": -61.604171
+  },
+  {
+    "GeoAreaCode": 316,
+    "GeoAreaName": "Guam",
+    "Total": 117.08,
+    "lat": 13.444304,
+    "lng": 144.793731
+  },
+  {
+    "GeoAreaCode": 320,
+    "GeoAreaName": "Guatemala",
+    "Total": 115.72,
+    "lat": 15.783471,
+    "lng": -90.230759
+  },
+  {
+    "GeoAreaCode": 324,
+    "GeoAreaName": "Guinea",
+    "Total": 145.98,
+    "lat": 9.945587,
+    "lng": -9.696645
+  },
+  {
+    "GeoAreaCode": 624,
+    "GeoAreaName": "Guinea-Bissau",
+    "Total": 145.98,
+    "lat": 11.803749,
+    "lng": -15.180413
+  },
+  {
+    "GeoAreaCode": 328,
+    "GeoAreaName": "Guyana",
+    "Total": 115.72,
+    "lat": 4.860416,
+    "lng": -58.93018
+  },
+  {
+    "GeoAreaCode": 332,
+    "GeoAreaName": "Haiti",
+    "Total": 126.48,
+    "lat": 18.971187,
+    "lng": -72.285215
+  },
+  {
+    "GeoAreaCode": 340,
+    "GeoAreaName": "Honduras",
+    "Total": 123.37,
+    "lat": 15.199999,
+    "lng": -86.241905
+  },
+  {
+    "GeoAreaCode": 344,
+    "GeoAreaName": "Hong Kong",
+    "Total": 109.79,
+    "lat": 22.396428,
+    "lng": 114.109497
+  },
+  {
+    "GeoAreaCode": 348,
+    "GeoAreaName": "Hungary",
+    "Total": 132.21,
+    "lat": 47.162494,
+    "lng": 19.503304
+  },
+  {
+    "GeoAreaCode": 352,
+    "GeoAreaName": "Iceland",
+    "Total": 114.55,
+    "lat": 64.963051,
+    "lng": -19.020835
+  },
+  {
+    "GeoAreaCode": 356,
+    "GeoAreaName": "India",
+    "Total": 99.93,
+    "lat": 20.593684,
+    "lng": 78.96288
+  },
+  {
+    "GeoAreaCode": 360,
+    "GeoAreaName": "Indonesia",
+    "Total": 120.66,
+    "lat": -0.789275,
+    "lng": 113.921327
+  },
+  {
+    "GeoAreaCode": 368,
+    "GeoAreaName": "Iraq",
+    "Total": 164.39,
+    "lat": 33.223191,
+    "lng": 43.679291
+  },
+  {
+    "GeoAreaCode": 372,
+    "GeoAreaName": "Ireland",
+    "Total": 123.66,
+    "lat": 53.41291,
+    "lng": -8.24389
+  },
+  {
+    "GeoAreaCode": 833,
+    "GeoAreaName": "Isle of Man",
+    "Total": 114.58,
+    "lat": 54.236107,
+    "lng": -4.548056
+  },
+  {
+    "GeoAreaCode": 376,
+    "GeoAreaName": "Israel",
+    "Total": 178.43,
+    "lat": 31.046051,
+    "lng": 34.851612
+  },
+  {
+    "GeoAreaCode": 380,
+    "GeoAreaName": "Italy",
+    "Total": 96.25,
+    "lat": 41.87194,
+    "lng": 12.56738
+  },
+  {
+    "GeoAreaCode": 388,
+    "GeoAreaName": "Jamaica",
+    "Total": 115.72,
+    "lat": 18.109581,
+    "lng": -77.297508
+  },
+  {
+    "GeoAreaCode": 400,
+    "GeoAreaName": "Jordan",
+    "Total": 136.33,
+    "lat": 30.585164,
+    "lng": 36.238414
+  },
+  {
+    "GeoAreaCode": 398,
+    "GeoAreaName": "Kazakhstan",
+    "Total": 9849.15,
+    "lat": 48.019573,
+    "lng": 66.923684
+  },
+  {
+    "GeoAreaCode": 404,
+    "GeoAreaName": "Kenya",
+    "Total": 141.34,
+    "lat": -0.023559,
+    "lng": 37.906193
+  },
+  {
+    "GeoAreaCode": 296,
+    "GeoAreaName": "Kiribati",
+    "Total": 134.3,
+    "lat": -3.370417,
+    "lng": -168.734039
+  },
+  {
+    "GeoAreaCode": 414,
+    "GeoAreaName": "Kuwait",
+    "Total": 132.91,
+    "lat": 29.31166,
+    "lng": 47.481766
+  },
+  {
+    "GeoAreaCode": 417,
+    "GeoAreaName": "Kyrgyzstan",
+    "Total": 134.31,
+    "lat": 41.20438,
+    "lng": 74.766098
+  },
+  {
+    "GeoAreaCode": 418,
+    "GeoAreaName": "Laos",
+    "Total": 129.63,
+    "lat": 19.85627,
+    "lng": 102.495496
+  },
+  {
+    "GeoAreaCode": 428,
+    "GeoAreaName": "Latvia",
+    "Total": 114.56,
+    "lat": 56.879635,
+    "lng": 24.603189
+  },
+  {
+    "GeoAreaCode": 422,
+    "GeoAreaName": "Lebanon",
+    "Total": 147.94,
+    "lat": 33.854721,
+    "lng": 35.862285
+  },
+  {
+    "GeoAreaCode": 426,
+    "GeoAreaName": "Lesotho",
+    "Total": 142.88,
+    "lat": -29.609988,
+    "lng": 28.233608
+  },
+  {
+    "GeoAreaCode": 430,
+    "GeoAreaName": "Liberia",
+    "Total": 145.98,
+    "lat": 6.428055,
+    "lng": -9.429499
+  },
+  {
+    "GeoAreaCode": 434,
+    "GeoAreaName": "Libya",
+    "Total": 119,
+    "lat": 26.3351,
+    "lng": 17.228331
+  },
+  {
+    "GeoAreaCode": 438,
+    "GeoAreaName": "Liechtenstein",
+    "Total": 110,
+    "lat": 47.166,
+    "lng": 9.555373
+  },
+  {
+    "GeoAreaCode": 440,
+    "GeoAreaName": "Lithuania",
+    "Total": 114.57,
+    "lat": 55.169438,
+    "lng": 23.881275
+  },
+  {
+    "GeoAreaCode": 442,
+    "GeoAreaName": "Luxembourg",
+    "Total": 117.34,
+    "lat": 49.815273,
+    "lng": 6.129583
+  },
+  {
+    "GeoAreaCode": 446,
+    "GeoAreaName": "Macau",
+    "Total": 109.78,
+    "lat": 22.198745,
+    "lng": 113.543873
+  },
+  {
+    "GeoAreaCode": 450,
+    "GeoAreaName": "Madagascar",
+    "Total": 145.98,
+    "lat": -18.766947,
+    "lng": 46.869107
+  },
+  {
+    "GeoAreaCode": 454,
+    "GeoAreaName": "Malawi",
+    "Total": 145.98,
+    "lat": -13.254308,
+    "lng": 34.301525
+  },
+  {
+    "GeoAreaCode": 458,
+    "GeoAreaName": "Malaysia",
+    "Total": 385.43,
+    "lat": 4.210484,
+    "lng": 101.975766
+  },
+  {
+    "GeoAreaCode": 462,
+    "GeoAreaName": "Maldives",
+    "Total": 114.27,
+    "lat": 3.202778,
+    "lng": 73.22068
+  },
+  {
+    "GeoAreaCode": 466,
+    "GeoAreaName": "Mali",
+    "Total": 145.98,
+    "lat": 17.570692,
+    "lng": -3.996166
+  },
+  {
+    "GeoAreaCode": 470,
+    "GeoAreaName": "Malta",
+    "Total": 167.39,
+    "lat": 35.937496,
+    "lng": 14.375416
+  },
+  {
+    "GeoAreaCode": 584,
+    "GeoAreaName": "Marshall Islands",
+    "Total": 119.02,
+    "lat": 7.131474,
+    "lng": 171.184478
+  },
+  {
+    "GeoAreaCode": 478,
+    "GeoAreaName": "Mauritania",
+    "Total": 142.88,
+    "lat": 21.00789,
+    "lng": -10.940835
+  },
+  {
+    "GeoAreaCode": 480,
+    "GeoAreaName": "Mauritius",
+    "Total": 131.81,
+    "lat": -20.348404,
+    "lng": 57.552152
+  },
+  {
+    "GeoAreaCode": 484,
+    "GeoAreaName": "Mexico",
+    "Total": 137.19,
+    "lat": 23.634501,
+    "lng": -102.552784
+  },
+  {
+    "GeoAreaCode": 57,
+    "GeoAreaName": "Micronesia",
+    "Total": 232.23,
+    "lat": 7.425554,
+    "lng": 150.550812
+  },
+  {
+    "GeoAreaCode": 498,
+    "GeoAreaName": "Moldova",
+    "Total": 121.46,
+    "lat": 47.411631,
+    "lng": 28.369885
+  },
+  {
+    "GeoAreaCode": 492,
+    "GeoAreaName": "Monaco",
+    "Total": 110.15,
+    "lat": 43.750298,
+    "lng": 7.412841
+  },
+  {
+    "GeoAreaCode": 496,
+    "GeoAreaName": "Mongolia",
+    "Total": 218.97,
+    "lat": 46.862496,
+    "lng": 103.846656
+  },
+  {
+    "GeoAreaCode": 499,
+    "GeoAreaName": "Montenegro",
+    "Total": 126.07,
+    "lat": 42.708678,
+    "lng": 19.37439
+  },
+  {
+    "GeoAreaCode": 504,
+    "GeoAreaName": "Morocco",
+    "Total": 134.3,
+    "lat": 31.791702,
+    "lng": -7.09262
+  },
+  {
+    "GeoAreaCode": 508,
+    "GeoAreaName": "Mozambique",
+    "Total": 145.98,
+    "lat": -18.665695,
+    "lng": 35.529562
+  },
+  {
+    "GeoAreaCode": 104,
+    "GeoAreaName": "Myanmar [Burma]",
+    "Total": 129.63,
+    "lat": 21.913965,
+    "lng": 95.956223
+  },
+  {
+    "GeoAreaCode": 516,
+    "GeoAreaName": "Namibia",
+    "Total": 135.23,
+    "lat": -22.95764,
+    "lng": 18.49041
+  },
+  {
+    "GeoAreaCode": 520,
+    "GeoAreaName": "Nauru",
+    "Total": 117.46,
+    "lat": -0.522778,
+    "lng": 166.931503
+  },
+  {
+    "GeoAreaCode": 524,
+    "GeoAreaName": "Nepal",
+    "Total": 121.92,
+    "lat": 28.394857,
+    "lng": 84.124008
+  },
+  {
+    "GeoAreaCode": 528,
+    "GeoAreaName": "Netherlands",
+    "Total": 86.57,
+    "lat": 52.132633,
+    "lng": 5.291266
+  },
+  {
+    "GeoAreaCode": 540,
+    "GeoAreaName": "New Caledonia",
+    "Total": 117.09,
+    "lat": -20.904305,
+    "lng": 165.618042
+  },
+  {
+    "GeoAreaCode": 554,
+    "GeoAreaName": "New Zealand",
+    "Total": 89.69,
+    "lat": -40.900557,
+    "lng": 174.885971
+  },
+  {
+    "GeoAreaCode": 558,
+    "GeoAreaName": "Nicaragua",
+    "Total": 123.37,
+    "lat": 12.865416,
+    "lng": -85.207229
+  },
+  {
+    "GeoAreaCode": 566,
+    "GeoAreaName": "Nigeria",
+    "Total": 232.09,
+    "lat": 9.081999,
+    "lng": 8.675277
+  },
+  {
+    "GeoAreaCode": 410,
+    "GeoAreaName": "North Korea",
+    "Total": 109.79,
+    "lat": 40.339852,
+    "lng": 127.510093
+  },
+  {
+    "GeoAreaCode": 807,
+    "GeoAreaName": "North Macedonia",
+    "Total": 126.07,
+    "lat": 41.6086,
+    "lng": 21.7453
+  },
+  {
+    "GeoAreaCode": 580,
+    "GeoAreaName": "Northern Mariana Islands",
+    "Total": 117.05,
+    "lat": 17.33083,
+    "lng": 145.38469
+  },
+  {
+    "GeoAreaCode": 578,
+    "GeoAreaName": "Norway",
+    "Total": 97.54,
+    "lat": 60.472024,
+    "lng": 8.468946
+  },
+  {
+    "GeoAreaCode": 512,
+    "GeoAreaName": "Oman",
+    "Total": 132.91,
+    "lat": 21.512583,
+    "lng": 55.923255
+  },
+  {
+    "GeoAreaCode": 586,
+    "GeoAreaName": "Pakistan",
+    "Total": 116.93,
+    "lat": 30.375321,
+    "lng": 69.345116
+  },
+  {
+    "GeoAreaCode": 585,
+    "GeoAreaName": "Palau",
+    "Total": 117.07,
+    "lat": 7.51498,
+    "lng": 134.58252
+  },
+  {
+    "GeoAreaCode": 591,
+    "GeoAreaName": "Panama",
+    "Total": 112.3,
+    "lat": 8.537981,
+    "lng": -80.782127
+  },
+  {
+    "GeoAreaCode": 598,
+    "GeoAreaName": "Papua New Guinea",
+    "Total": 134.3,
+    "lat": -6.314993,
+    "lng": 143.95555
+  },
+  {
+    "GeoAreaCode": 600,
+    "GeoAreaName": "Paraguay",
+    "Total": 115.72,
+    "lat": -23.442503,
+    "lng": -58.443832
+  },
+  {
+    "GeoAreaCode": 604,
+    "GeoAreaName": "Peru",
+    "Total": 115.72,
+    "lat": -9.189967,
+    "lng": -75.015152
+  },
+  {
+    "GeoAreaCode": 608,
+    "GeoAreaName": "Philippines",
+    "Total": 129.63,
+    "lat": 12.879721,
+    "lng": 121.774017
+  },
+  {
+    "GeoAreaCode": 616,
+    "GeoAreaName": "Poland",
+    "Total": 94.32,
+    "lat": 51.919438,
+    "lng": 19.145136
+  },
+  {
+    "GeoAreaCode": 620,
+    "GeoAreaName": "Portugal",
+    "Total": 122.65,
+    "lat": 39.399872,
+    "lng": -8.224454
+  },
+  {
+    "GeoAreaCode": 630,
+    "GeoAreaName": "Puerto Rico",
+    "Total": 112.3,
+    "lat": 18.220833,
+    "lng": -66.590149
+  },
+  {
+    "GeoAreaCode": 634,
+    "GeoAreaName": "Qatar",
+    "Total": 132.92,
+    "lat": 25.354826,
+    "lng": 51.183884
+  },
+  {
+    "GeoAreaCode": 642,
+    "GeoAreaName": "Romania",
+    "Total": 108.25,
+    "lat": 45.943161,
+    "lng": 24.96676
+  },
+  {
+    "GeoAreaCode": 643,
+    "GeoAreaName": "Russia",
+    "Total": 764.38,
+    "lat": 61.52401,
+    "lng": 105.318756
+  },
+  {
+    "GeoAreaCode": 646,
+    "GeoAreaName": "Rwanda",
+    "Total": 207.65,
+    "lat": -1.940278,
+    "lng": 29.873888
+  },
+  {
+    "GeoAreaCode": 659,
+    "GeoAreaName": "Saint Kitts and Nevis",
+    "Total": 112.23,
+    "lat": 17.357822,
+    "lng": -62.782998
+  },
+  {
+    "GeoAreaCode": 662,
+    "GeoAreaName": "Saint Lucia",
+    "Total": 115.72,
+    "lat": 13.909444,
+    "lng": -60.978893
+  },
+  {
+    "GeoAreaCode": 663,
+    "GeoAreaName": "Saint Martin (French Part)",
+    "Total": 112.3,
+    "lat": 18.0826,
+    "lng": 63.0523
+  },
+  {
+    "GeoAreaCode": 670,
+    "GeoAreaName": "Saint Vincent and the Grenadines",
+    "Total": 115.73,
+    "lat": 12.984305,
+    "lng": -61.287228
+  },
+  {
+    "GeoAreaCode": 882,
+    "GeoAreaName": "Samoa",
+    "Total": 119.01,
+    "lat": -13.759029,
+    "lng": -172.104629
+  },
+  {
+    "GeoAreaCode": 674,
+    "GeoAreaName": "San Marino",
+    "Total": 122.78,
+    "lat": 43.94236,
+    "lng": 12.457777
+  },
+  {
+    "GeoAreaCode": 678,
+    "GeoAreaName": "Sao Tome and Principe",
+    "Total": 142.91,
+    "lat": 0.1864,
+    "lng": 6.6131
+  },
+  {
+    "GeoAreaCode": 682,
+    "GeoAreaName": "Saudi Arabia",
+    "Total": 176.05,
+    "lat": 23.885942,
+    "lng": 45.079162
+  },
+  {
+    "GeoAreaCode": 686,
+    "GeoAreaName": "Senegal",
+    "Total": 142.88,
+    "lat": 14.497401,
+    "lng": -14.452362
+  },
+  {
+    "GeoAreaCode": 688,
+    "GeoAreaName": "Serbia",
+    "Total": 104.42,
+    "lat": 44.016521,
+    "lng": 21.005859
+  },
+  {
+    "GeoAreaCode": 690,
+    "GeoAreaName": "Seychelles",
+    "Total": 131.75,
+    "lat": -4.679574,
+    "lng": 55.491977
+  },
+  {
+    "GeoAreaCode": 694,
+    "GeoAreaName": "Sierra Leone",
+    "Total": 145.98,
+    "lat": 8.460555,
+    "lng": -11.779889
+  },
+  {
+    "GeoAreaCode": 702,
+    "GeoAreaName": "Singapore",
+    "Total": 196.08,
+    "lat": 1.352083,
+    "lng": 103.819836
+  },
+  {
+    "GeoAreaCode": 534,
+    "GeoAreaName": "Sint Maarten (Dutch part)",
+    "Total": 112.33,
+    "lat": 18.0425,
+    "lng": 63.0548
+  },
+  {
+    "GeoAreaCode": 703,
+    "GeoAreaName": "Slovakia",
+    "Total": 108.25,
+    "lat": 48.669026,
+    "lng": 19.699024
+  },
+  {
+    "GeoAreaCode": 90,
+    "GeoAreaName": "Solomon Islands",
+    "Total": 134.3,
+    "lat": -9.64571,
+    "lng": 160.156194
+  },
+  {
+    "GeoAreaCode": 706,
+    "GeoAreaName": "Somalia",
+    "Total": 145.98,
+    "lat": 5.152149,
+    "lng": 46.199616
+  },
+  {
+    "GeoAreaCode": 710,
+    "GeoAreaName": "South Africa",
+    "Total": 83.06,
+    "lat": -30.559482,
+    "lng": 22.937506
+  },
+  {
+    "GeoAreaCode": 408,
+    "GeoAreaName": "South Korea",
+    "Total": 123.96,
+    "lat": 35.907757,
+    "lng": 127.766922
+  },
+  {
+    "GeoAreaCode": 724,
+    "GeoAreaName": "Spain",
+    "Total": 115.71,
+    "lat": 40.463667,
+    "lng": -3.74922
+  },
+  {
+    "GeoAreaCode": 144,
+    "GeoAreaName": "Sri Lanka",
+    "Total": 119.15,
+    "lat": 7.873054,
+    "lng": 80.771797
+  },
+  {
+    "GeoAreaCode": 275,
+    "GeoAreaName": "State of Palestine",
+    "Total": 143.98,
+    "lat": 31.9522,
+    "lng": 35.2332
+  },
+  {
+    "GeoAreaCode": 728,
+    "GeoAreaName": "Sudan",
+    "Total": 286.49,
+    "lat": 12.862807,
+    "lng": 30.217636
+  },
+  {
+    "GeoAreaCode": 740,
+    "GeoAreaName": "Suriname",
+    "Total": 122.5,
+    "lat": 3.919305,
+    "lng": -56.027783
+  },
+  {
+    "GeoAreaCode": 752,
+    "GeoAreaName": "Sweden",
+    "Total": 111.5,
+    "lat": 60.128161,
+    "lng": 18.643501
+  },
+  {
+    "GeoAreaCode": 756,
+    "GeoAreaName": "Switzerland",
+    "Total": 124.49,
+    "lat": 46.818188,
+    "lng": 8.227512
+  },
+  {
+    "GeoAreaCode": 760,
+    "GeoAreaName": "Syria",
+    "Total": 147.09,
+    "lat": 34.802075,
+    "lng": 38.996815
+  },
+  {
+    "GeoAreaCode": 762,
+    "GeoAreaName": "Tajikistan",
+    "Total": 140.51,
+    "lat": 38.861034,
+    "lng": 71.276093
+  },
+  {
+    "GeoAreaCode": 764,
+    "GeoAreaName": "Thailand",
+    "Total": 153.16,
+    "lat": 15.870032,
+    "lng": 100.992541
+  },
+  {
+    "GeoAreaCode": 626,
+    "GeoAreaName": "Timor-Leste",
+    "Total": 129.62,
+    "lat": -8.874217,
+    "lng": 125.727539
+  },
+  {
+    "GeoAreaCode": 768,
+    "GeoAreaName": "Togo",
+    "Total": 145.98,
+    "lat": 8.619543,
+    "lng": 0.824782
+  },
+  {
+    "GeoAreaCode": 776,
+    "GeoAreaName": "Tonga",
+    "Total": 119,
+    "lat": -21.178986,
+    "lng": -175.198242
+  },
+  {
+    "GeoAreaCode": 780,
+    "GeoAreaName": "Trinidad and Tobago",
+    "Total": 112.3,
+    "lat": 10.691803,
+    "lng": -61.222503
+  },
+  {
+    "GeoAreaCode": 788,
+    "GeoAreaName": "Tunisia",
+    "Total": 134.3,
+    "lat": 33.886917,
+    "lng": 9.537499
+  },
+  {
+    "GeoAreaCode": 792,
+    "GeoAreaName": "Turkey",
+    "Total": 136.33,
+    "lat": 38.963745,
+    "lng": 35.243322
+  },
+  {
+    "GeoAreaCode": 795,
+    "GeoAreaName": "Turkmenistan",
+    "Total": 119,
+    "lat": 38.969719,
+    "lng": 59.556278
+  },
+  {
+    "GeoAreaCode": 796,
+    "GeoAreaName": "Turks and Caicos Islands",
+    "Total": 112.32,
+    "lat": 21.694025,
+    "lng": -71.797928
+  },
+  {
+    "GeoAreaCode": 798,
+    "GeoAreaName": "Tuvalu",
+    "Total": 118.44,
+    "lat": -7.109535,
+    "lng": 177.64933
+  },
+  {
+    "GeoAreaCode": 850,
+    "GeoAreaName": "U.S. Virgin Islands",
+    "Total": 112.33,
+    "lat": 18.335765,
+    "lng": -64.896335
+  },
+  {
+    "GeoAreaCode": 800,
+    "GeoAreaName": "Uganda",
+    "Total": 145.98,
+    "lat": 1.373333,
+    "lng": 32.290275
+  },
+  {
+    "GeoAreaCode": 804,
+    "GeoAreaName": "Ukraine",
+    "Total": 131.99,
+    "lat": 48.379433,
+    "lng": 31.16558
+  },
+  {
+    "GeoAreaCode": 784,
+    "GeoAreaName": "United Arab Emirates",
+    "Total": 204.29,
+    "lat": 23.424076,
+    "lng": 53.847818
+  },
+  {
+    "GeoAreaCode": 834,
+    "GeoAreaName": "United Republic of Tanzania",
+    "Total": 162.37,
+    "lat": 6.369,
+    "lng": 34.8888
+  },
+  {
+    "GeoAreaCode": 840,
+    "GeoAreaName": "United States",
+    "Total": 138.11,
+    "lat": 37.09024,
+    "lng": -95.712891
+  },
+  {
+    "GeoAreaCode": 858,
+    "GeoAreaName": "Uruguay",
+    "Total": 112.3,
+    "lat": -32.522779,
+    "lng": -55.765835
+  },
+  {
+    "GeoAreaCode": 860,
+    "GeoAreaName": "Uzbekistan",
+    "Total": 134.3,
+    "lat": 41.377491,
+    "lng": 64.585262
+  },
+  {
+    "GeoAreaCode": 548,
+    "GeoAreaName": "Vanuatu",
+    "Total": 134.31,
+    "lat": -15.376706,
+    "lng": 166.959158
+  },
+  {
+    "GeoAreaCode": 862,
+    "GeoAreaName": "Venezuela",
+    "Total": 115.72,
+    "lat": 6.42375,
+    "lng": -66.58973
+  },
+  {
+    "GeoAreaCode": 704,
+    "GeoAreaName": "Vietnam",
+    "Total": 119.45,
+    "lat": 14.058324,
+    "lng": 108.277199
+  },
+  {
+    "GeoAreaCode": 887,
+    "GeoAreaName": "Yemen",
+    "Total": 147.09,
+    "lat": 15.552727,
+    "lng": 48.516388
+  },
+  {
+    "GeoAreaCode": 894,
+    "GeoAreaName": "Zambia",
+    "Total": 121.21,
+    "lat": -13.133897,
+    "lng": 27.849332
+  },
+  {
+    "GeoAreaCode": 716,
+    "GeoAreaName": "Zimbabwe",
+    "Total": 142.88,
+    "lat": -19.015438,
+    "lng": 29.154857
+  }
+]

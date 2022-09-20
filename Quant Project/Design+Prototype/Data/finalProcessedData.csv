@@ -1,0 +1,676 @@
+﻿Goal,Target,Indicator,SeriesCode,SeriesDescription,GeoAreaCode,GeoAreaName,Food Waste Sector,Units,2016,2017,2018,point,lat,lng
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),4,Afghanistan,HHS,KG,,,,81.73,33.93911,67.709953
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),4,Afghanistan,OOHC,KG,,,,27.64811,33.93911,67.709953
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),4,Afghanistan,RTL,KG,,,,15.64025,33.93911,67.709953
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),8,Albania,HHS,KG,,,,82.7834,41.153332,20.168331
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),8,Albania,OOHC,KG,,,,27.64795,41.153332,20.168331
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),8,Albania,RTL,KG,,,,15.64016,41.153332,20.168331
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),12,Algeria,HHS,KG,,,,91.01628,28.033886,1.659626
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),12,Algeria,OOHC,KG,,,,27.6481,28.033886,1.659626
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),12,Algeria,RTL,KG,,,,15.64025,28.033886,1.659626
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),16,American Samoa,HHS,KG,,,,75.69669,-14.270972,-170.132217
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),16,American Samoa,OOHC,KG,,,,27.64208,-14.270972,-170.132217
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),16,American Samoa,RTL,KG,,,,15.63684,-14.270972,-170.132217
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),20,Andorra,HHS,KG,,,,84.22213,42.546245,1.601554
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),20,Andorra,OOHC,KG,,,,25.55517,42.546245,1.601554
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),20,Andorra,RTL,KG,,,,12.80367,42.546245,1.601554
+12,12.4,12.4.2,EN_HAZ_PCAP,"Hazardous waste generated, per capita (Kg)",20,Andorra,N/A,KG,24.88389,19.83844,18.79901,16.89819,42.546245,1.601554
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),24,Angola,HHS,KG,,,,99.5913,-11.202692,17.873887
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),24,Angola,OOHC,KG,,,,27.64808,-11.202692,17.873887
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),24,Angola,RTL,KG,,,,15.64023,-11.202692,17.873887
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),28,Antigua and Barbuda,HHS,KG,,,,73.90935,17.060816,-61.796428
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),28,Antigua and Barbuda,OOHC,KG,,,,25.56647,17.060816,-61.796428
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),28,Antigua and Barbuda,RTL,KG,,,,12.80933,17.060816,-61.796428
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),31,Azerbaijan,HHS,KG,,,,93.04324,40.143105,47.576927
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),31,Azerbaijan,OOHC,KG,,,,27.64802,40.143105,47.576927
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),31,Azerbaijan,RTL,KG,,,,15.6402,40.143105,47.576927
+12,12.4,12.4.2,EN_HAZ_PCAP,"Hazardous waste generated, per capita (Kg)",31,Azerbaijan,N/A,KG,64.97528,27.01488,34.04581,31.59055,40.143105,47.576927
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),32,Argentina,HHS,KG,,,,72.4322,-38.416097,-63.616672
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),32,Argentina,OOHC,KG,,,,27.64809,-38.416097,-63.616672
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),32,Argentina,RTL,KG,,,,15.64024,-38.416097,-63.616672
+12,12.4,12.4.2,EN_HAZ_PCAP,"Hazardous waste generated, per capita (Kg)",32,Argentina,N/A,KG,16.82933,22.83043,17.57628,17.22542,-38.416097,-63.616672
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),36,Australia,HHS,KG,,,,101.69781,-25.274398,133.775136
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),36,Australia,OOHC,KG,,,,21.67739,-25.274398,133.775136
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),36,Australia,RTL,KG,,,,9.45307,-25.274398,133.775136
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),40,Austria,HHS,KG,,,,38.99997,47.516231,14.550072
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),40,Austria,OOHC,KG,,,,28.385,47.516231,14.550072
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),40,Austria,RTL,KG,,,,8.63071,47.516231,14.550072
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),44,Bahamas,HHS,KG,,,,73.92343,25.03428,-77.39628
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),44,Bahamas,OOHC,KG,,,,25.57134,25.03428,-77.39628
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),44,Bahamas,RTL,KG,,,,12.81177,25.03428,-77.39628
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),48,Bahrain,HHS,KG,,,,131.71205,25.930414,50.637772
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),48,Bahrain,OOHC,KG,,,,25.57098,25.930414,50.637772
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),48,Bahrain,RTL,KG,,,,12.81159,25.930414,50.637772
+12,12.4,12.4.2,EN_HAZ_PCAP,"Hazardous waste generated, per capita (Kg)",48,Bahrain,N/A,KG,50.80738,48.04428,51.70781,56.35094,25.930414,50.637772
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),50,Bangladesh,HHS,KG,,,,65.12409,23.684994,90.356331
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),50,Bangladesh,OOHC,KG,,,,3.33915,23.684994,90.356331
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),50,Bangladesh,RTL,KG,,,,15.64023,23.684994,90.356331
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),51,Armenia,HHS,KG,,,,93.04253,40.069099,45.038189
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),51,Armenia,OOHC,KG,,,,27.64781,40.069099,45.038189
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),51,Armenia,RTL,KG,,,,15.64008,40.069099,45.038189
+12,12.4,12.4.2,EN_HAZ_PCAP,"Hazardous waste generated, per capita (Kg)",51,Armenia,N/A,KG,209.61846,182.63233,173.07023,192.89705,40.069099,45.038189
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),52,Barbados,HHS,KG,,,,73.91536,13.193887,-59.543198
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),52,Barbados,OOHC,KG,,,,25.56855,13.193887,-59.543198
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),52,Barbados,RTL,KG,,,,12.81037,13.193887,-59.543198
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),56,Belgium,HHS,KG,,,,49.9194,50.503887,4.469936
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),56,Belgium,OOHC,KG,,,,19.70402,50.503887,4.469936
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),56,Belgium,RTL,KG,,,,9.71462,50.503887,4.469936
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),57,Micronesia,HHS,KG,,,,83.61869,7.425554,150.550812
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),57,Micronesia,RTL,KG,,,,14.32225,7.425554,150.550812
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),60,Bermuda,HHS,KG,,,,73.67945,32.321384,-64.75737
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),60,Bermuda,OOHC,KG,,,,25.56715,32.321384,-64.75737
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),60,Bermuda,RTL,KG,,,,12.80967,32.321384,-64.75737
+12,12.4,12.4.2,EN_HAZ_PCAP,"Hazardous waste generated, per capita (Kg)",60,Bermuda,N/A,KG,9.4697,8.32805,23.89943,28.79631,32.321384,-64.75737
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),64,Bhutan,HHS,KG,,,,78.62749,27.514162,90.433601
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),64,Bhutan,OOHC,KG,,,,27.64829,27.514162,90.433601
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),64,Bhutan,RTL,KG,,,,15.64035,27.514162,90.433601
+12,12.4,12.4.2,EN_EWT_GENPCAP,"Electronic waste generated, per capita (Kg)",64,Bhutan,N/A,KG,,,,1.34977,27.514162,90.433601
+12,12.4,12.4.2,EN_HAZ_PCAP,"Hazardous waste generated, per capita (Kg)",64,Bhutan,N/A,KG,,0.57406,,0.46997,27.514162,90.433601
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),70,Bosnia and Herzegovina,HHS,KG,,,,82.78382,43.915886,17.679076
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),70,Bosnia and Herzegovina,OOHC,KG,,,,27.64809,43.915886,17.679076
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),70,Bosnia and Herzegovina,RTL,KG,,,,15.64024,43.915886,17.679076
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),72,Botswana,HHS,KG,,,,91.93965,-22.328474,24.684866
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),72,Botswana,OOHC,KG,,,,27.64804,-22.328474,24.684866
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),72,Botswana,RTL,KG,,,,15.64021,-22.328474,24.684866
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),76,Brazil,HHS,KG,,,,59.59885,-14.235004,-51.92528
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),76,Brazil,OOHC,KG,,,,27.64807,-14.235004,-51.92528
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),76,Brazil,RTL,KG,,,,15.64023,-14.235004,-51.92528
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),84,Belize,HHS,KG,,,,52.6805,17.189877,-88.49765
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),84,Belize,OOHC,KG,,,,27.65155,17.189877,-88.49765
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),84,Belize,RTL,KG,,,,15.64219,17.189877,-88.49765
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),90,Solomon Islands,HHS,KG,,,,91.01333,-9.64571,160.156194
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),90,Solomon Islands,OOHC,KG,,,,27.64721,-9.64571,160.156194
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),90,Solomon Islands,RTL,KG,,,,15.63974,-9.64571,160.156194
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),92,British Virgin Islands,HHS,KG,,,,73.83955,18.420695,-64.639968
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),92,British Virgin Islands,OOHC,KG,,,,25.54232,18.420695,-64.639968
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),92,British Virgin Islands,RTL,KG,,,,12.79723,18.420695,-64.639968
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),96,Brunei,HHS,KG,,,,80.17494,4.535277,114.727669
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),96,Brunei,OOHC,KG,,,,25.57065,4.535277,114.727669
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),96,Brunei,RTL,KG,,,,12.81143,4.535277,114.727669
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),100,Bulgaria,HHS,KG,,,,68.3799,42.733883,25.48583
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),100,Bulgaria,OOHC,KG,,,,27.64801,42.733883,25.48583
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),100,Bulgaria,RTL,KG,,,,15.64019,42.733883,25.48583
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),104,Myanmar [Burma],HHS,KG,,,,86.33709,21.913965,95.956223
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),104,Myanmar [Burma],OOHC,KG,,,,27.64806,21.913965,95.956223
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),104,Myanmar [Burma],RTL,KG,,,,15.64022,21.913965,95.956223
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),108,Burundi,HHS,KG,,,,102.69454,-3.373056,29.918886
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),108,Burundi,OOHC,KG,,,,27.64813,-3.373056,29.918886
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),108,Burundi,RTL,KG,,,,15.64026,-3.373056,29.918886
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),112,Belarus,HHS,KG,,,,68.38,53.709807,27.953389
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),112,Belarus,OOHC,KG,,,,27.64805,53.709807,27.953389
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),112,Belarus,RTL,KG,,,,15.64021,53.709807,27.953389
+12,12.4,12.4.2,EN_HAZ_PCAP,"Hazardous waste generated, per capita (Kg)",112,Belarus,N/A,KG,172.20753,176.50888,232.68069,218.4988,53.709807,27.953389
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),116,Cambodia,HHS,KG,,,,86.33691,12.565679,104.990963
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),116,Cambodia,OOHC,KG,,,,27.648,12.565679,104.990963
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),116,Cambodia,RTL,KG,,,,15.64019,12.565679,104.990963
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),120,Cameroon,HHS,KG,,,,99.59135,7.369722,12.354722
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),120,Cameroon,OOHC,KG,,,,27.64809,7.369722,12.354722
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),120,Cameroon,RTL,KG,,,,15.64024,7.369722,12.354722
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),124,Canada,HHS,KG,,,,78.54154,56.130366,-106.346771
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),124,Canada,OOHC,KG,,,,25.57039,56.130366,-106.346771
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),124,Canada,RTL,KG,,,,12.8113,56.130366,-106.346771
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),132,Cape Verde,HHS,KG,,,,99.58478,16.002082,-24.013197
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),132,Cape Verde,OOHC,KG,,,,27.64626,16.002082,-24.013197
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),132,Cape Verde,RTL,KG,,,,15.6392,16.002082,-24.013197
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),136,Cayman Islands,HHS,KG,,,,73.86614,19.513469,-80.566956
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),136,Cayman Islands,OOHC,KG,,,,25.55152,19.513469,-80.566956
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),136,Cayman Islands,RTL,KG,,,,12.80184,19.513469,-80.566956
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),140,Central African Republic,HHS,KG,,,,102.69479,6.611111,20.939444
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),140,Central African Republic,OOHC,KG,,,,27.6482,6.611111,20.939444
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),140,Central African Republic,RTL,KG,,,,15.6403,6.611111,20.939444
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),144,Sri Lanka,HHS,KG,,,,75.86559,7.873054,80.771797
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),144,Sri Lanka,OOHC,KG,,,,27.64803,7.873054,80.771797
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),144,Sri Lanka,RTL,KG,,,,15.6402,7.873054,80.771797
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),148,Chad,HHS,KG,,,,102.69445,15.454166,18.732207
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),148,Chad,OOHC,KG,,,,27.64811,15.454166,18.732207
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),148,Chad,RTL,KG,,,,15.64025,15.454166,18.732207
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),152,Chile,HHS,KG,,,,73.92063,-35.675147,-71.542969
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),152,Chile,OOHC,KG,,,,25.57037,-35.675147,-71.542969
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),152,Chile,RTL,KG,,,,12.81129,-35.675147,-71.542969
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),156,China,HHS,KG,,,,63.91913,35.86166,104.195397
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),156,China,OOHC,KG,,,,45.59805,35.86166,104.195397
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),156,China,RTL,KG,,,,15.64023,35.86166,104.195397
+12,12.4,12.4.2,EN_HAZ_PCAP,"Hazardous waste generated, per capita (Kg)",156,China,N/A,KG,36.91172,46.31379,52.32362,56.67487,35.86166,104.195397
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),170,Colombia,HHS,KG,,,,70.43183,4.570868,-74.297333
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),170,Colombia,OOHC,KG,,,,27.64805,4.570868,-74.297333
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),170,Colombia,RTL,KG,,,,15.64022,4.570868,-74.297333
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),174,Comoros,HHS,KG,,,,99.59235,-11.875001,43.872219
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),174,Comoros,OOHC,KG,,,,27.64837,-11.875001,43.872219
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),174,Comoros,RTL,KG,,,,15.64039,-11.875001,43.872219
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),180,Congo [DRC],HHS,KG,,,,102.69437,-4.038333,21.758664
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),180,Congo [DRC],OOHC,KG,,,,27.64808,-4.038333,21.758664
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),180,Congo [DRC],RTL,KG,,,,15.64023,-4.038333,21.758664
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),188,Costa Rica,HHS,KG,,,,72.43272,9.748917,-83.753428
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),188,Costa Rica,OOHC,KG,,,,27.64829,9.748917,-83.753428
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),188,Costa Rica,RTL,KG,,,,15.64035,9.748917,-83.753428
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),191,Croatia,HHS,KG,,,,84.2724,45.1,15.2
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),191,Croatia,OOHC,KG,,,,25.57042,45.1,15.2
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),191,Croatia,RTL,KG,,,,12.81131,45.1,15.2
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),192,Cuba,HHS,KG,,,,72.43226,21.521757,-77.781167
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),192,Cuba,OOHC,KG,,,,27.64811,21.521757,-77.781167
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),192,Cuba,RTL,KG,,,,15.64025,21.521757,-77.781167
+12,12.4,12.4.2,EN_HAZ_PCAP,"Hazardous waste generated, per capita (Kg)",192,Cuba,N/A,KG,20.37007,20.73311,34.0097,23.10278,21.521757,-77.781167
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),196,Cyprus,HHS,KG,,,,94.53407,35.126413,33.429859
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),196,Cyprus,OOHC,KG,,,,25.57097,35.126413,33.429859
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),196,Cyprus,RTL,KG,,,,12.81159,35.126413,33.429859
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),203,Czech Republic,HHS,KG,,,,69.86859,49.817492,15.472962
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),203,Czech Republic,OOHC,KG,,,,25.57039,49.817492,15.472962
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),203,Czech Republic,RTL,KG,,,,12.81129,49.817492,15.472962
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),204,Benin,HHS,KG,,,,99.59171,9.30769,2.315834
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),204,Benin,OOHC,KG,,,,27.64819,9.30769,2.315834
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),204,Benin,RTL,KG,,,,15.64029,9.30769,2.315834
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),208,Denmark,HHS,KG,,,,81.33385,56.26392,9.501785
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),208,Denmark,OOHC,KG,,,,20.64047,56.26392,9.501785
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),208,Denmark,RTL,KG,,,,29.80012,56.26392,9.501785
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),212,Dominica,HHS,KG,,,,72.42409,15.414999,-61.370976
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),212,Dominica,OOHC,KG,,,,27.64499,15.414999,-61.370976
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),212,Dominica,RTL,KG,,,,15.63849,15.414999,-61.370976
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),214,Dominican Republic,HHS,KG,,,,72.43245,18.735693,-70.162651
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),214,Dominican Republic,OOHC,KG,,,,27.64819,18.735693,-70.162651
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),214,Dominican Republic,RTL,KG,,,,15.64029,18.735693,-70.162651
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),218,Ecuador,HHS,KG,,,,72.43234,-1.831239,-78.183406
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),218,Ecuador,OOHC,KG,,,,27.64814,-1.831239,-78.183406
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),218,Ecuador,RTL,KG,,,,15.64027,-1.831239,-78.183406
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),222,El Salvador,HHS,KG,,,,80.08431,13.794185,-88.89653
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),222,El Salvador,OOHC,KG,,,,27.64829,13.794185,-88.89653
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),222,El Salvador,RTL,KG,,,,15.64035,13.794185,-88.89653
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),226,Equatorial Guinea,HHS,KG,,,,91.94099,1.650801,10.267895
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),226,Equatorial Guinea,OOHC,KG,,,,27.64844,1.650801,10.267895
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),226,Equatorial Guinea,RTL,KG,,,,15.64044,1.650801,10.267895
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),231,Ethiopia,HHS,KG,,,,92.14269,9.145,40.489673
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),231,Ethiopia,OOHC,KG,,,,27.64807,9.145,40.489673
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),231,Ethiopia,RTL,KG,,,,15.64022,9.145,40.489673
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),232,Eritrea,HHS,KG,,,,102.69383,15.179384,39.782334
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),232,Eritrea,OOHC,KG,,,,27.64794,15.179384,39.782334
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),232,Eritrea,RTL,KG,,,,15.64015,15.179384,39.782334
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),233,Estonia,HHS,KG,,,,77.5043,58.595272,25.013607
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),233,Estonia,OOHC,KG,,,,16.60513,58.595272,25.013607
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),233,Estonia,RTL,KG,,,,4.70923,58.595272,25.013607
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),234,Faroe Islands,HHS,KG,,,,76.22148,61.892635,-6.911806
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),234,Faroe Islands,OOHC,KG,,,,25.5825,61.892635,-6.911806
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),234,Faroe Islands,RTL,KG,,,,12.81736,61.892635,-6.911806
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),242,Fiji,HHS,KG,,,,75.71695,-16.578193,179.414413
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),242,Fiji,OOHC,KG,,,,27.64947,-16.578193,179.414413
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),242,Fiji,RTL,KG,,,,15.64102,-16.578193,179.414413
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),246,Finland,HHS,KG,,,,65.42417,61.92411,25.748151
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),246,Finland,OOHC,KG,,,,23.30508,61.92411,25.748151
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),246,Finland,RTL,KG,,,,12.8114,61.92411,25.748151
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),250,France,HHS,KG,,,,84.79013,46.227638,2.213749
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),250,France,OOHC,KG,,,,24.48313,46.227638,2.213749
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),250,France,RTL,KG,,,,25.60379,46.227638,2.213749
+12,12.4,12.4.2,EN_HAZ_PCAP,"Hazardous waste generated, per capita (Kg)",254,French Guiana,N/A,KG,,3.20507,5.61258,7.96705,3.933889,-53.125782
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),258,French Polynesia,HHS,KG,,,,78.69456,-17.679742,-149.406843
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),258,French Polynesia,OOHC,KG,,,,25.57179,-17.679742,-149.406843
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),258,French Polynesia,RTL,KG,,,,12.812,-17.679742,-149.406843
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),262,Djibouti,HHS,KG,,,,99.5957,11.825138,42.590275
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),262,Djibouti,OOHC,KG,,,,27.6493,11.825138,42.590275
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),262,Djibouti,RTL,KG,,,,15.64092,11.825138,42.590275
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),266,Gabon,HHS,KG,,,,91.9407,-0.803689,11.609444
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),266,Gabon,OOHC,KG,,,,27.64835,-0.803689,11.609444
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),266,Gabon,RTL,KG,,,,15.64039,-0.803689,11.609444
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),268,Georgia,HHS,KG,,,,100.97496,42.315407,43.356892
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),268,Georgia,OOHC,KG,,,,27.64834,42.315407,43.356892
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),268,Georgia,RTL,KG,,,,15.64038,42.315407,43.356892
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),270,Gambia,HHS,KG,,,,102.69451,13.443182,-15.310139
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),270,Gambia,OOHC,KG,,,,27.64812,13.443182,-15.310139
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),270,Gambia,RTL,KG,,,,15.64026,13.443182,-15.310139
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),275,State of Palestine,HHS,KG,,,,100.6945,31.9522,35.2332
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),275,State of Palestine,OOHC,KG,,,,27.64795,31.9522,35.2332
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),275,State of Palestine,RTL,KG,,,,15.64016,31.9522,35.2332
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),276,Germany,HHS,KG,,,,74.99996,51.165691,10.451526
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),276,Germany,OOHC,KG,,,,20.57583,51.165691,10.451526
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),276,Germany,RTL,KG,,,,5.96577,51.165691,10.451526
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),288,Ghana,HHS,KG,,,,84.00762,7.946527,-1.023194
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),288,Ghana,OOHC,KG,,,,27.64811,7.946527,-1.023194
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),288,Ghana,RTL,KG,,,,15.64025,7.946527,-1.023194
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),292,Gibraltar,HHS,KG,,,,84.25738,36.137741,-5.345374
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),292,Gibraltar,OOHC,KG,,,,25.56587,36.137741,-5.345374
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),292,Gibraltar,RTL,KG,,,,12.80903,36.137741,-5.345374
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),296,Kiribati,HHS,KG,,,,91.00999,-3.370417,-168.734039
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),296,Kiribati,OOHC,KG,,,,27.64619,-3.370417,-168.734039
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),296,Kiribati,RTL,KG,,,,15.63916,-3.370417,-168.734039
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),300,Greece,HHS,KG,,,,141.69119,39.074208,21.824312
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),300,Greece,OOHC,KG,,,,25.57054,39.074208,21.824312
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),300,Greece,RTL,KG,,,,7.38358,39.074208,21.824312
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),304,Greenland,HHS,KG,,,,73.7409,71.706936,-42.604303
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),304,Greenland,OOHC,KG,,,,25.58847,71.706936,-42.604303
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),304,Greenland,RTL,KG,,,,12.82035,71.706936,-42.604303
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),308,Grenada,HHS,KG,,,,72.43087,12.262776,-61.604171
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),308,Grenada,OOHC,KG,,,,27.64758,12.262776,-61.604171
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),308,Grenada,RTL,KG,,,,15.63995,12.262776,-61.604171
+12,12.4,12.4.2,EN_HAZ_PCAP,"Hazardous waste generated, per capita (Kg)",312,Guadeloupe,N/A,KG,25.07505,27.51458,28.52584,30.0289,16.995971,-62.067641
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),316,Guam,HHS,KG,,,,78.69268,13.444304,144.793731
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),316,Guam,OOHC,KG,,,,25.57118,13.444304,144.793731
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),316,Guam,RTL,KG,,,,12.81169,13.444304,144.793731
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),320,Guatemala,HHS,KG,,,,72.43226,15.783471,-90.230759
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),320,Guatemala,OOHC,KG,,,,27.64811,15.783471,-90.230759
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),320,Guatemala,RTL,KG,,,,15.64025,15.783471,-90.230759
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),324,Guinea,HHS,KG,,,,102.69396,9.945587,-9.696645
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),324,Guinea,OOHC,KG,,,,27.64797,9.945587,-9.696645
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),324,Guinea,RTL,KG,,,,15.64017,9.945587,-9.696645
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),328,Guyana,HHS,KG,,,,72.43448,4.860416,-58.93018
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),328,Guyana,OOHC,KG,,,,27.64896,4.860416,-58.93018
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),328,Guyana,RTL,KG,,,,15.64073,4.860416,-58.93018
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),332,Haiti,HHS,KG,,,,83.18688,18.971187,-72.285215
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),332,Haiti,OOHC,KG,,,,27.64813,18.971187,-72.285215
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),332,Haiti,RTL,KG,,,,15.64026,18.971187,-72.285215
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),340,Honduras,HHS,KG,,,,80.08357,15.199999,-86.241905
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),340,Honduras,OOHC,KG,,,,27.64803,15.199999,-86.241905
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),340,Honduras,RTL,KG,,,,15.6402,15.199999,-86.241905
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),344,Hong Kong,HHS,KG,,,,71.40583,22.396428,114.109497
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),344,Hong Kong,OOHC,KG,,,,25.57057,22.396428,114.109497
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),344,Hong Kong,RTL,KG,,,,12.81138,22.396428,114.109497
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),348,Hungary,HHS,KG,,,,93.82541,47.162494,19.503304
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),348,Hungary,OOHC,KG,,,,25.57047,47.162494,19.503304
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),348,Hungary,RTL,KG,,,,12.81134,47.162494,19.503304
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),352,Iceland,HHS,KG,,,,76.17717,64.963051,-19.020835
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),352,Iceland,OOHC,KG,,,,25.56763,64.963051,-19.020835
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),352,Iceland,RTL,KG,,,,12.80991,64.963051,-19.020835
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),356,India,HHS,KG,,,,50.32148,20.593684,78.96288
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),356,India,OOHC,KG,,,,27.64808,20.593684,78.96288
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),356,India,RTL,KG,,,,15.64023,20.593684,78.96288
+12,12.4,12.4.2,EN_HAZ_PCAP,"Hazardous waste generated, per capita (Kg)",356,India,N/A,KG,3.88856,5.3581,6.98032,6.32254,20.593684,78.96288
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),360,Indonesia,HHS,KG,,,,77.36982,-0.789275,113.921327
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),360,Indonesia,OOHC,KG,,,,27.64808,-0.789275,113.921327
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),360,Indonesia,RTL,KG,,,,15.64023,-0.789275,113.921327
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),364,Iran (Islamic Republic of),HHS,KG,,,,70.97534,32.427908,53.688046
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),364,Iran (Islamic Republic of),OOHC,KG,,,,27.64808,32.427908,53.688046
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),364,Iran (Islamic Republic of),RTL,KG,,,,15.64023,32.427908,53.688046
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),368,Iraq,HHS,KG,,,,120.43907,33.223191,43.679291
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),368,Iraq,OOHC,KG,,,,27.64808,33.223191,43.679291
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),368,Iraq,RTL,KG,,,,15.64023,33.223191,43.679291
+12,12.4,12.4.2,EN_HAZ_PCAP,"Hazardous waste generated, per capita (Kg)",368,Iraq,N/A,KG,0.52288,0.45891,0.54931,0.66235,33.223191,43.679291
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),372,Ireland,HHS,KG,,,,54.70002,53.41291,-8.24389
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),372,Ireland,OOHC,KG,,,,56.14645,53.41291,-8.24389
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),372,Ireland,RTL,KG,,,,12.81131,53.41291,-8.24389
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),376,Israel,HHS,KG,,,,99.58424,31.046051,34.851612
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),376,Israel,OOHC,KG,,,,27.43771,31.046051,34.851612
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),376,Israel,RTL,KG,,,,51.41187,31.046051,34.851612
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),380,Italy,HHS,KG,,,,67.04872,41.87194,12.56738
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),380,Italy,OOHC,KG,,,,25.57042,41.87194,12.56738
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),380,Italy,RTL,KG,,,,3.62595,41.87194,12.56738
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),384,Côte d'Ivoire,HHS,KG,,,,99.59109,7.539989,-5.54708
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),384,Côte d'Ivoire,OOHC,KG,,,,27.64802,7.539989,-5.54708
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),384,Côte d'Ivoire,RTL,KG,,,,15.6402,7.539989,-5.54708
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),388,Jamaica,HHS,KG,,,,72.43273,18.109581,-77.297508
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),388,Jamaica,OOHC,KG,,,,27.64829,18.109581,-77.297508
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),388,Jamaica,RTL,KG,,,,15.64035,18.109581,-77.297508
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),392,Japan,HHS,KG,,,,64.32187,36.204824,138.252924
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),392,Japan,OOHC,KG,,,,14.74642,36.204824,138.252924
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),392,Japan,RTL,KG,,,,8.63397,36.204824,138.252924
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),398,Kazakhstan,HHS,KG,,,,75.713,48.019573,66.923684
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),398,Kazakhstan,OOHC,KG,,,,27.64803,48.019573,66.923684
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),398,Kazakhstan,RTL,KG,,,,15.6402,48.019573,66.923684
+12,12.4,12.4.2,EN_EWT_GENPCAP,"Electronic waste generated, per capita (Kg)",398,Kazakhstan,N/A,KG,0.04991,0.57128,0.21835,0.07115,48.019573,66.923684
+12,12.4,12.4.2,EN_HAZ_PCAP,"Hazardous waste generated, per capita (Kg)",398,Kazakhstan,N/A,KG,8490.37833,7017.37514,8185.89211,9730.07318,48.019573,66.923684
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),400,Jordan,HHS,KG,,,,93.04344,30.585164,36.238414
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),400,Jordan,OOHC,KG,,,,27.64808,30.585164,36.238414
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),400,Jordan,RTL,KG,,,,15.64023,30.585164,36.238414
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),404,Kenya,HHS,KG,,,,99.2386,-0.023559,37.906193
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),404,Kenya,OOHC,KG,,,,31.13746,-0.023559,37.906193
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),404,Kenya,RTL,KG,,,,10.9638,-0.023559,37.906193
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),408,South Korea,HHS,KG,,,,80.67151,35.907757,127.766922
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),408,South Korea,OOHC,KG,,,,27.64812,35.907757,127.766922
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),408,South Korea,RTL,KG,,,,15.64025,35.907757,127.766922
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),410,North Korea,HHS,KG,,,,71.40539,40.339852,127.510093
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),410,North Korea,OOHC,KG,,,,25.57041,40.339852,127.510093
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),410,North Korea,RTL,KG,,,,12.8113,40.339852,127.510093
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),414,Kuwait,HHS,KG,,,,94.53254,29.31166,47.481766
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),414,Kuwait,OOHC,KG,,,,25.57056,29.31166,47.481766
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),414,Kuwait,RTL,KG,,,,12.81138,29.31166,47.481766
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),417,Kyrgyzstan,HHS,KG,,,,91.01687,41.20438,74.766098
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),417,Kyrgyzstan,OOHC,KG,,,,27.64829,41.20438,74.766098
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),417,Kyrgyzstan,RTL,KG,,,,15.64035,41.20438,74.766098
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),418,Laos,HHS,KG,,,,86.33766,19.85627,102.495496
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),418,Laos,OOHC,KG,,,,27.64824,19.85627,102.495496
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),418,Laos,RTL,KG,,,,15.64032,19.85627,102.495496
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),422,Lebanon,HHS,KG,,,,104.65602,33.854721,35.862285
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),422,Lebanon,OOHC,KG,,,,27.64804,33.854721,35.862285
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),422,Lebanon,RTL,KG,,,,15.64021,33.854721,35.862285
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),426,Lesotho,HHS,KG,,,,99.59284,-29.609988,28.233608
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),426,Lesotho,OOHC,KG,,,,27.6485,-29.609988,28.233608
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),426,Lesotho,RTL,KG,,,,15.64047,-29.609988,28.233608
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),428,Latvia,HHS,KG,,,,76.18388,56.879635,24.603189
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),428,Latvia,OOHC,KG,,,,25.56988,56.879635,24.603189
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),428,Latvia,RTL,KG,,,,12.81104,56.879635,24.603189
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),430,Liberia,HHS,KG,,,,102.69487,6.428055,-9.429499
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),430,Liberia,OOHC,KG,,,,27.64822,6.428055,-9.429499
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),430,Liberia,RTL,KG,,,,15.64031,6.428055,-9.429499
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),434,Libya,HHS,KG,,,,75.71364,26.3351,17.228331
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),434,Libya,OOHC,KG,,,,27.64827,26.3351,17.228331
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),434,Libya,RTL,KG,,,,15.64034,26.3351,17.228331
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),438,Liechtenstein,HHS,KG,,,,71.63744,47.166,9.555373
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),438,Liechtenstein,OOHC,KG,,,,25.55697,47.166,9.555373
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),438,Liechtenstein,RTL,KG,,,,12.80457,47.166,9.555373
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),440,Lithuania,HHS,KG,,,,76.18462,55.169438,23.881275
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),440,Lithuania,OOHC,KG,,,,25.57013,55.169438,23.881275
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),440,Lithuania,RTL,KG,,,,12.81117,55.169438,23.881275
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),442,Luxembourg,HHS,KG,,,,89.24565,49.815273,6.129583
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),442,Luxembourg,OOHC,KG,,,,20.89898,49.815273,6.129583
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),442,Luxembourg,RTL,KG,,,,7.19965,49.815273,6.129583
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),446,Macau,HHS,KG,,,,71.40029,22.198745,113.543873
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),446,Macau,OOHC,KG,,,,25.56858,22.198745,113.543873
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),446,Macau,RTL,KG,,,,12.81039,22.198745,113.543873
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),450,Madagascar,HHS,KG,,,,102.69431,-18.766947,46.869107
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),450,Madagascar,OOHC,KG,,,,27.64807,-18.766947,46.869107
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),450,Madagascar,RTL,KG,,,,15.64023,-18.766947,46.869107
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),454,Malawi,HHS,KG,,,,102.69406,-13.254308,34.301525
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),454,Malawi,OOHC,KG,,,,27.648,-13.254308,34.301525
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),454,Malawi,RTL,KG,,,,15.64019,-13.254308,34.301525
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),458,Malaysia,HHS,KG,,,,91.44275,4.210484,101.975766
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),458,Malaysia,OOHC,KG,,,,89.56358,4.210484,101.975766
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),458,Malaysia,RTL,KG,,,,78.8174,4.210484,101.975766
+12,12.4,12.4.2,EN_HAZ_PCAP,"Hazardous waste generated, per capita (Kg)",458,Malaysia,N/A,KG,90.16278,64.85463,74.69813,125.60925,4.210484,101.975766
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),462,Maldives,HHS,KG,,,,70.98109,3.202778,73.22068
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),462,Maldives,OOHC,KG,,,,27.65031,3.202778,73.22068
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),462,Maldives,RTL,KG,,,,15.6415,3.202778,73.22068
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),466,Mali,HHS,KG,,,,102.69421,17.570692,-3.996166
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),466,Mali,OOHC,KG,,,,27.64804,17.570692,-3.996166
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),466,Mali,RTL,KG,,,,15.64021,17.570692,-3.996166
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),470,Malta,HHS,KG,,,,129.00674,35.937496,14.375416
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),470,Malta,OOHC,KG,,,,25.57175,35.937496,14.375416
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),470,Malta,RTL,KG,,,,12.81198,35.937496,14.375416
+12,12.4,12.4.2,EN_HAZ_PCAP,"Hazardous waste generated, per capita (Kg)",474,Martinique,N/A,KG,41.79262,23.36506,51.48374,11.71327,14.641528,-61.024174
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),478,Mauritania,HHS,KG,,,,99.59134,21.00789,-10.940835
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),478,Mauritania,OOHC,KG,,,,27.64809,21.00789,-10.940835
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),478,Mauritania,RTL,KG,,,,15.64024,21.00789,-10.940835
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),480,Mauritius,HHS,KG,,,,93.43058,-20.348404,57.552152
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),480,Mauritius,OOHC,KG,,,,25.57102,-20.348404,57.552152
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),480,Mauritius,RTL,KG,,,,12.81161,-20.348404,57.552152
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),484,Mexico,HHS,KG,,,,93.90017,23.634501,-102.552784
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),484,Mexico,OOHC,KG,,,,27.64807,23.634501,-102.552784
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),484,Mexico,RTL,KG,,,,15.64023,23.634501,-102.552784
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),492,Monaco,HHS,KG,,,,71.73584,43.750298,7.412841
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),492,Monaco,OOHC,KG,,,,25.59207,43.750298,7.412841
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),492,Monaco,RTL,KG,,,,12.82216,43.750298,7.412841
+12,12.4,12.4.2,EN_HAZ_PCAP,"Hazardous waste generated, per capita (Kg)",492,Monaco,N/A,KG,10.06751,5.25292,,,43.750298,7.412841
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),496,Mongolia,HHS,KG,,,,77.56916,46.862496,103.846656
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),496,Mongolia,OOHC,KG,,,,27.64837,46.862496,103.846656
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),496,Mongolia,RTL,KG,,,,15.64039,46.862496,103.846656
+12,12.4,12.4.2,EN_HAZ_PCAP,"Hazardous waste generated, per capita (Kg)",496,Mongolia,N/A,KG,,,,98.10835,46.862496,103.846656
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),498,Moldova,HHS,KG,,,,76.03239,47.411631,28.369885
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),498,Moldova,OOHC,KG,,,,27.64836,47.411631,28.369885
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),498,Moldova,RTL,KG,,,,15.64039,47.411631,28.369885
+12,12.4,12.4.2,EN_HAZ_PCAP,"Hazardous waste generated, per capita (Kg)",498,Moldova,N/A,KG,,,,2.14085,47.411631,28.369885
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),499,Montenegro,HHS,KG,,,,82.78536,42.708678,19.37439
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),499,Montenegro,OOHC,KG,,,,27.6486,42.708678,19.37439
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),499,Montenegro,RTL,KG,,,,15.64053,42.708678,19.37439
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),504,Morocco,HHS,KG,,,,91.01626,31.791702,-7.09262
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),504,Morocco,OOHC,KG,,,,27.6481,31.791702,-7.09262
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),504,Morocco,RTL,KG,,,,15.64024,31.791702,-7.09262
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),508,Mozambique,HHS,KG,,,,102.69419,-18.665695,35.529562
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),508,Mozambique,OOHC,KG,,,,27.64804,-18.665695,35.529562
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),508,Mozambique,RTL,KG,,,,15.64021,-18.665695,35.529562
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),512,Oman,HHS,KG,,,,94.53217,21.512583,55.923255
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),512,Oman,OOHC,KG,,,,25.57046,21.512583,55.923255
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),512,Oman,RTL,KG,,,,12.81133,21.512583,55.923255
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),516,Namibia,HHS,KG,,,,91.93888,-22.95764,18.49041
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),516,Namibia,OOHC,KG,,,,27.64781,-22.95764,18.49041
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),516,Namibia,RTL,KG,,,,15.64008,-22.95764,18.49041
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),520,Nauru,HHS,KG,,,,78.95351,-0.522778,166.931503
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),520,Nauru,OOHC,KG,,,,25.65594,-0.522778,166.931503
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),520,Nauru,RTL,KG,,,,12.85416,-0.522778,166.931503
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),524,Nepal,HHS,KG,,,,78.62683,28.394857,84.124008
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),524,Nepal,OOHC,KG,,,,27.64806,28.394857,84.124008
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),524,Nepal,RTL,KG,,,,15.64022,28.394857,84.124008
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),528,Netherlands,HHS,KG,,,,49.99993,52.132633,5.291266
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),528,Netherlands,OOHC,KG,,,,25.57038,52.132633,5.291266
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),528,Netherlands,RTL,KG,,,,10.99999,52.132633,5.291266
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),531,Curaçao,HHS,KG,,,,73.91037,12.1696,68.99
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),531,Curaçao,OOHC,KG,,,,25.56682,12.1696,68.99
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),531,Curaçao,RTL,KG,,,,12.80951,12.1696,68.99
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),533,Aruba,HHS,KG,,,,73.91382,12.52111,-69.968338
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),533,Aruba,OOHC,KG,,,,25.56801,12.52111,-69.968338
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),533,Aruba,RTL,KG,,,,12.8101,12.52111,-69.968338
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),534,Sint Maarten (Dutch part),HHS,KG,,,,73.93995,18.0425,63.0548
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),534,Sint Maarten (Dutch part),OOHC,KG,,,,25.57705,18.0425,63.0548
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),534,Sint Maarten (Dutch part),RTL,KG,,,,12.81463,18.0425,63.0548
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),540,New Caledonia,HHS,KG,,,,78.7023,-20.904305,165.618042
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),540,New Caledonia,OOHC,KG,,,,25.57431,-20.904305,165.618042
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),540,New Caledonia,RTL,KG,,,,12.81326,-20.904305,165.618042
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),548,Vanuatu,HHS,KG,,,,91.02164,-15.376706,166.959158
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),548,Vanuatu,OOHC,KG,,,,27.64973,-15.376706,166.959158
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),548,Vanuatu,RTL,KG,,,,15.64117,-15.376706,166.959158
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),554,New Zealand,HHS,KG,,,,61.00048,-40.900557,174.885971
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),554,New Zealand,OOHC,KG,,,,25.57062,-40.900557,174.885971
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),554,New Zealand,RTL,KG,,,,3.12002,-40.900557,174.885971
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),558,Nicaragua,HHS,KG,,,,80.08366,12.865416,-85.207229
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),558,Nicaragua,OOHC,KG,,,,27.64806,12.865416,-85.207229
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),558,Nicaragua,RTL,KG,,,,15.64022,12.865416,-85.207229
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),562,Niger,HHS,KG,,,,102.69425,17.607789,8.081666
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),562,Niger,OOHC,KG,,,,27.64805,17.607789,8.081666
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),562,Niger,RTL,KG,,,,15.64022,17.607789,8.081666
+12,12.4,12.4.2,EN_EWT_GENPCAP,"Electronic waste generated, per capita (Kg)",562,Niger,N/A,KG,0.4799,0.47768,0.47399,0.47002,17.607789,8.081666
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),566,Nigeria,HHS,KG,,,,188.79772,9.081999,8.675277
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),566,Nigeria,OOHC,KG,,,,27.64807,9.081999,8.675277
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),566,Nigeria,RTL,KG,,,,15.64023,9.081999,8.675277
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),578,Norway,HHS,KG,,,,78.8006,60.472024,8.468946
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),578,Norway,OOHC,KG,,,,4.96118,60.472024,8.468946
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),578,Norway,RTL,KG,,,,13.77387,60.472024,8.468946
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),580,Northern Mariana Islands,HHS,KG,,,,78.67245,17.33083,145.38469
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),580,Northern Mariana Islands,OOHC,KG,,,,25.56461,17.33083,145.38469
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),580,Northern Mariana Islands,RTL,KG,,,,12.8084,17.33083,145.38469
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),583,Micronesia,HHS,KG,,,,91.00738,7.425554,150.550812
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),583,Micronesia,OOHC,KG,,,,27.6454,7.425554,150.550812
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),583,Micronesia,RTL,KG,,,,15.63872,7.425554,150.550812
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),584,Marshall Islands,HHS,KG,,,,75.72471,7.131474,171.184478
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),584,Marshall Islands,OOHC,KG,,,,27.65231,7.131474,171.184478
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),584,Marshall Islands,RTL,KG,,,,15.64262,7.131474,171.184478
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),585,Palau,HHS,KG,,,,78.68596,7.51498,134.58252
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),585,Palau,OOHC,KG,,,,25.569,7.51498,134.58252
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),585,Palau,RTL,KG,,,,12.8106,7.51498,134.58252
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),586,Pakistan,HHS,KG,,,,73.63896,30.375321,69.345116
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),586,Pakistan,OOHC,KG,,,,27.64807,30.375321,69.345116
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),586,Pakistan,RTL,KG,,,,15.64023,30.375321,69.345116
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),591,Panama,HHS,KG,,,,73.92007,8.537981,-80.782127
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),591,Panama,OOHC,KG,,,,25.57018,8.537981,-80.782127
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),591,Panama,RTL,KG,,,,12.81119,8.537981,-80.782127
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),598,Papua New Guinea,HHS,KG,,,,91.01598,-6.314993,143.95555
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),598,Papua New Guinea,OOHC,KG,,,,27.64801,-6.314993,143.95555
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),598,Papua New Guinea,RTL,KG,,,,15.64019,-6.314993,143.95555
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),600,Paraguay,HHS,KG,,,,72.43176,-23.442503,-58.443832
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),600,Paraguay,OOHC,KG,,,,27.64792,-23.442503,-58.443832
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),600,Paraguay,RTL,KG,,,,15.64014,-23.442503,-58.443832
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),604,Peru,HHS,KG,,,,72.43225,-9.189967,-75.015152
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),604,Peru,OOHC,KG,,,,27.64811,-9.189967,-75.015152
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),604,Peru,RTL,KG,,,,15.64025,-9.189967,-75.015152
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),608,Philippines,HHS,KG,,,,86.33711,12.879721,121.774017
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),608,Philippines,OOHC,KG,,,,27.64807,12.879721,121.774017
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),608,Philippines,RTL,KG,,,,15.64023,12.879721,121.774017
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),616,Poland,HHS,KG,,,,55.94034,51.919438,19.145136
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),616,Poland,OOHC,KG,,,,25.57044,51.919438,19.145136
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),616,Poland,RTL,KG,,,,12.81132,51.919438,19.145136
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),620,Portugal,HHS,KG,,,,84.27256,39.399872,-8.224454
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),620,Portugal,OOHC,KG,,,,25.57047,39.399872,-8.224454
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),620,Portugal,RTL,KG,,,,12.81134,39.399872,-8.224454
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),624,Guinea-Bissau,HHS,KG,,,,102.69342,11.803749,-15.180413
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),624,Guinea-Bissau,OOHC,KG,,,,27.64783,11.803749,-15.180413
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),624,Guinea-Bissau,RTL,KG,,,,15.64009,11.803749,-15.180413
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),626,Timor-Leste,HHS,KG,,,,86.33579,-8.874217,125.727539
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),626,Timor-Leste,OOHC,KG,,,,27.64765,-8.874217,125.727539
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),626,Timor-Leste,RTL,KG,,,,15.63999,-8.874217,125.727539
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),630,Puerto Rico,HHS,KG,,,,73.92067,18.220833,-66.590149
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),630,Puerto Rico,OOHC,KG,,,,25.57038,18.220833,-66.590149
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),630,Puerto Rico,RTL,KG,,,,12.81129,18.220833,-66.590149
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),634,Qatar,HHS,KG,,,,94.53299,25.354826,51.183884
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),634,Qatar,OOHC,KG,,,,25.57068,25.354826,51.183884
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),634,Qatar,RTL,KG,,,,12.81144,25.354826,51.183884
+12,12.4,12.4.2,EN_HAZ_PCAP,"Hazardous waste generated, per capita (Kg)",638,Réunion,N/A,KG,9.72587,10.21651,9.262,10.97497,-21.115141,55.536384
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),642,Romania,HHS,KG,,,,69.86882,45.943161,24.96676
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),642,Romania,OOHC,KG,,,,25.57047,45.943161,24.96676
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),642,Romania,RTL,KG,,,,12.81134,45.943161,24.96676
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),643,Russia,HHS,KG,,,,33.37553,61.52401,105.318756
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),643,Russia,OOHC,KG,,,,27.64808,61.52401,105.318756
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),643,Russia,RTL,KG,,,,13.71791,61.52401,105.318756
+12,12.4,12.4.2,EN_HAZ_PCAP,"Hazardous waste generated, per capita (Kg)",643,Russia,N/A,KG,676.3945,740.25433,875.73894,689.63758,61.52401,105.318756
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),646,Rwanda,HHS,KG,,,,164.36331,-1.940278,29.873888
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),646,Rwanda,OOHC,KG,,,,27.64821,-1.940278,29.873888
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),646,Rwanda,RTL,KG,,,,15.64031,-1.940278,29.873888
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),659,Saint Kitts and Nevis,HHS,KG,,,,73.8732,17.357822,-62.782998
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),659,Saint Kitts and Nevis,OOHC,KG,,,,25.55396,17.357822,-62.782998
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),659,Saint Kitts and Nevis,RTL,KG,,,,12.80307,17.357822,-62.782998
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),662,Saint Lucia,HHS,KG,,,,72.43414,13.909444,-60.978893
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),662,Saint Lucia,OOHC,KG,,,,27.64883,13.909444,-60.978893
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),662,Saint Lucia,RTL,KG,,,,15.64066,13.909444,-60.978893
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),663,Saint Martin (French Part),HHS,KG,,,,73.91688,18.0826,63.0523
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),663,Saint Martin (French Part),OOHC,KG,,,,25.56907,18.0826,63.0523
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),663,Saint Martin (French Part),RTL,KG,,,,12.81064,18.0826,63.0523
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),670,Saint Vincent and the Grenadines,HHS,KG,,,,72.43675,12.984305,-61.287228
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),670,Saint Vincent and the Grenadines,OOHC,KG,,,,27.64982,12.984305,-61.287228
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),670,Saint Vincent and the Grenadines,RTL,KG,,,,15.64122,12.984305,-61.287228
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),674,San Marino,HHS,KG,,,,84.36197,43.94236,12.457777
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),674,San Marino,OOHC,KG,,,,25.5976,43.94236,12.457777
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),674,San Marino,RTL,KG,,,,12.82493,43.94236,12.457777
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),678,Sao Tome and Principe,HHS,KG,,,,99.61538,0.1864,6.6131
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),678,Sao Tome and Principe,OOHC,KG,,,,27.65476,0.1864,6.6131
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),678,Sao Tome and Principe,RTL,KG,,,,15.64401,0.1864,6.6131
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),682,Saudi Arabia,HHS,KG,,,,104.87991,23.885942,45.079162
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),682,Saudi Arabia,OOHC,KG,,,,25.5704,23.885942,45.079162
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),682,Saudi Arabia,RTL,KG,,,,19.65365,23.885942,45.079162
+12,12.4,12.4.2,EN_HAZ_PCAP,"Hazardous waste generated, per capita (Kg)",682,Saudi Arabia,N/A,KG,17.24029,27.18936,23.98222,25.94509,23.885942,45.079162
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),686,Senegal,HHS,KG,,,,99.59153,14.497401,-14.452362
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),686,Senegal,OOHC,KG,,,,27.64814,14.497401,-14.452362
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),686,Senegal,RTL,KG,,,,15.64027,14.497401,-14.452362
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),688,Serbia,HHS,KG,,,,82.78351,44.016521,21.005859
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),688,Serbia,OOHC,KG,,,,5.99998,44.016521,21.005859
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),688,Serbia,RTL,KG,,,,15.64018,44.016521,21.005859
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),690,Seychelles,HHS,KG,,,,93.38918,-4.679574,55.491977
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),690,Seychelles,OOHC,KG,,,,25.55969,-4.679574,55.491977
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),690,Seychelles,RTL,KG,,,,12.80594,-4.679574,55.491977
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),694,Sierra Leone,HHS,KG,,,,102.69424,8.460555,-11.779889
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),694,Sierra Leone,OOHC,KG,,,,27.64805,8.460555,-11.779889
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),694,Sierra Leone,RTL,KG,,,,15.64021,8.460555,-11.779889
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),702,Singapore,HHS,KG,,,,80.17361,1.352083,103.819836
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),702,Singapore,OOHC,KG,,,,25.57023,1.352083,103.819836
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),702,Singapore,RTL,KG,,,,12.81121,1.352083,103.819836
+12,12.4,12.4.2,EN_HAZ_PCAP,"Hazardous waste generated, per capita (Kg)",702,Singapore,N/A,KG,84.72263,82.594,93.51172,77.52815,1.352083,103.819836
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),703,Slovakia,HHS,KG,,,,69.86852,48.669026,19.699024
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),703,Slovakia,OOHC,KG,,,,25.57036,48.669026,19.699024
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),703,Slovakia,RTL,KG,,,,12.81128,48.669026,19.699024
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),704,Vietnam,HHS,KG,,,,76.16169,14.058324,108.277199
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),704,Vietnam,OOHC,KG,,,,27.64807,14.058324,108.277199
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),704,Vietnam,RTL,KG,,,,15.64023,14.058324,108.277199
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),705,Slovenia,HHS,KG,,,,34.20798,46.151241,14.995463
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),705,Slovenia,OOHC,KG,,,,20.08071,46.151241,14.995463
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),705,Slovenia,RTL,KG,,,,6.69192,46.151241,14.995463
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),706,Somalia,HHS,KG,,,,102.69429,5.152149,46.199616
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),706,Somalia,OOHC,KG,,,,27.64806,5.152149,46.199616
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),706,Somalia,RTL,KG,,,,15.64022,5.152149,46.199616
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),710,South Africa,HHS,KG,,,,39.77625,-30.559482,22.937506
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),710,South Africa,OOHC,KG,,,,27.64809,-30.559482,22.937506
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),710,South Africa,RTL,KG,,,,15.64024,-30.559482,22.937506
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),716,Zimbabwe,HHS,KG,,,,99.59148,-19.015438,29.154857
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),716,Zimbabwe,OOHC,KG,,,,27.64813,-19.015438,29.154857
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),716,Zimbabwe,RTL,KG,,,,15.64026,-19.015438,29.154857
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),724,Spain,HHS,KG,,,,77.32569,40.463667,-3.74922
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),724,Spain,OOHC,KG,,,,25.57043,40.463667,-3.74922
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),724,Spain,RTL,KG,,,,12.81131,40.463667,-3.74922
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),728,Sudan,HHS,KG,,,,102.6942,12.862807,30.217636
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),728,Sudan,OOHC,KG,,,,27.64804,12.862807,30.217636
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),728,Sudan,RTL,KG,,,,15.64021,12.862807,30.217636
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),729,Sudan,HHS,KG,,,,97.22217,12.862807,30.217636
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),729,Sudan,OOHC,KG,,,,27.64805,12.862807,30.217636
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),729,Sudan,RTL,KG,,,,15.64022,12.862807,30.217636
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),740,Suriname,HHS,KG,,,,72.43677,3.919305,-56.027783
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),740,Suriname,OOHC,KG,,,,27.64983,3.919305,-56.027783
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),740,Suriname,RTL,KG,,,,15.64122,3.919305,-56.027783
+12,12.4,12.4.2,EN_EWT_GENPCAP,"Electronic waste generated, per capita (Kg)",740,Suriname,N/A,KG,9.00009,7.98947,8.26408,6.76686,3.919305,-56.027783
+12,12.4,12.4.2,EN_HAZ_PCAP,"Hazardous waste generated, per capita (Kg)",740,Suriname,N/A,KG,0.00784,0.00459,0.00237,0.00151,3.919305,-56.027783
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),748,Eswatini,HHS,KG,,,,99.58843,26.5225,31.4659
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),748,Eswatini,OOHC,KG,,,,27.64728,26.5225,31.4659
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),748,Eswatini,RTL,KG,,,,15.63978,26.5225,31.4659
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),752,Sweden,HHS,KG,,,,81.00007,60.128161,18.643501
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),752,Sweden,OOHC,KG,,,,20.50002,60.128161,18.643501
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),752,Sweden,RTL,KG,,,,10.00001,60.128161,18.643501
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),756,Switzerland,HHS,KG,,,,71.67547,46.818188,8.227512
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),756,Switzerland,OOHC,KG,,,,40.00018,46.818188,8.227512
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),756,Switzerland,RTL,KG,,,,12.81137,46.818188,8.227512
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),760,Syria,HHS,KG,,,,103.79779,34.802075,38.996815
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),760,Syria,OOHC,KG,,,,27.64802,34.802075,38.996815
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),760,Syria,RTL,KG,,,,15.6402,34.802075,38.996815
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),762,Tajikistan,HHS,KG,,,,97.22201,38.861034,71.276093
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),762,Tajikistan,OOHC,KG,,,,27.64801,38.861034,71.276093
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),762,Tajikistan,RTL,KG,,,,15.64019,38.861034,71.276093
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),764,Thailand,HHS,KG,,,,78.68562,15.870032,100.992541
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),764,Thailand,OOHC,KG,,,,27.64808,15.870032,100.992541
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),764,Thailand,RTL,KG,,,,15.64023,15.870032,100.992541
+12,12.4,12.4.2,EN_EWT_GENPCAP,"Electronic waste generated, per capita (Kg)",764,Thailand,N/A,KG,5.69904,5.79947,5.97234,6.05137,15.870032,100.992541
+12,12.4,12.4.2,EN_HAZ_PCAP,"Hazardous waste generated, per capita (Kg)",764,Thailand,N/A,KG,50.19478,,32.70993,25.13444,15.870032,100.992541
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),768,Togo,HHS,KG,,,,102.69485,8.619543,0.824782
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),768,Togo,OOHC,KG,,,,27.64821,8.619543,0.824782
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),768,Togo,RTL,KG,,,,15.64031,8.619543,0.824782
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),776,Tonga,HHS,KG,,,,75.71529,-21.178986,-175.198242
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),776,Tonga,OOHC,KG,,,,27.64887,-21.178986,-175.198242
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),776,Tonga,RTL,KG,,,,15.64068,-21.178986,-175.198242
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),780,Trinidad and Tobago,HHS,KG,,,,73.92241,10.691803,-61.222503
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),780,Trinidad and Tobago,OOHC,KG,,,,25.57099,10.691803,-61.222503
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),780,Trinidad and Tobago,RTL,KG,,,,12.81159,10.691803,-61.222503
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),784,United Arab Emirates,HHS,KG,,,,94.53177,23.424076,53.847818
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),784,United Arab Emirates,OOHC,KG,,,,25.57035,23.424076,53.847818
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),784,United Arab Emirates,RTL,KG,,,,12.81128,23.424076,53.847818
+12,12.4,12.4.2,EN_HAZ_PCAP,"Hazardous waste generated, per capita (Kg)",784,United Arab Emirates,N/A,KG,39.37241,53.819,63.43765,71.37409,23.424076,53.847818
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),788,Tunisia,HHS,KG,,,,91.01602,33.886917,9.537499
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),788,Tunisia,OOHC,KG,,,,27.64802,33.886917,9.537499
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),788,Tunisia,RTL,KG,,,,15.6402,33.886917,9.537499
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),792,Turkey,HHS,KG,,,,93.04341,38.963745,35.243322
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),792,Turkey,OOHC,KG,,,,27.64807,38.963745,35.243322
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),792,Turkey,RTL,KG,,,,15.64023,38.963745,35.243322
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),795,Turkmenistan,HHS,KG,,,,75.7132,38.969719,59.556278
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),795,Turkmenistan,OOHC,KG,,,,27.6481,38.969719,59.556278
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),795,Turkmenistan,RTL,KG,,,,15.64024,38.969719,59.556278
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),796,Turks and Caicos Islands,HHS,KG,,,,73.93238,21.694025,-71.797928
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),796,Turks and Caicos Islands,OOHC,KG,,,,25.57443,21.694025,-71.797928
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),796,Turks and Caicos Islands,RTL,KG,,,,12.81332,21.694025,-71.797928
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),798,Tuvalu,HHS,KG,,,,75.35583,-7.109535,177.64933
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),798,Tuvalu,OOHC,KG,,,,27.5176,-7.109535,177.64933
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),798,Tuvalu,RTL,KG,,,,15.56642,-7.109535,177.64933
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),800,Uganda,HHS,KG,,,,102.69436,1.373333,32.290275
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),800,Uganda,OOHC,KG,,,,27.64808,1.373333,32.290275
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),800,Uganda,RTL,KG,,,,15.64023,1.373333,32.290275
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),804,Ukraine,HHS,KG,,,,76.03152,48.379433,31.16558
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),804,Ukraine,OOHC,KG,,,,27.64805,48.379433,31.16558
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),804,Ukraine,RTL,KG,,,,15.64021,48.379433,31.16558
+12,12.4,12.4.2,EN_EWT_GENPCAP,"Electronic waste generated, per capita (Kg)",804,Ukraine,N/A,KG,0.08946,0.09216,0.08588,0.10229,48.379433,31.16558
+12,12.4,12.4.2,EN_HAZ_PCAP,"Hazardous waste generated, per capita (Kg)",804,Ukraine,N/A,KG,13.88758,13.60565,14.18012,12.56948,48.379433,31.16558
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),807,North Macedonia,HHS,KG,,,,82.78544,41.6086,21.7453
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),807,North Macedonia,OOHC,KG,,,,27.64863,41.6086,21.7453
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),807,North Macedonia,RTL,KG,,,,15.64054,41.6086,21.7453
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),818,Egypt,HHS,KG,,,,91.0162,26.820553,30.802498
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),818,Egypt,OOHC,KG,,,,27.64808,26.820553,30.802498
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),818,Egypt,RTL,KG,,,,15.64023,26.820553,30.802498
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),826,United Kingdom of Great Britain and Northern Ireland,HHS,KG,,,,77.00004,55.3781,3.436
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),826,United Kingdom of Great Britain and Northern Ireland,OOHC,KG,,,,16.50001,55.3781,3.436
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),826,United Kingdom of Great Britain and Northern Ireland,RTL,KG,,,,4.2,55.3781,3.436
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),833,Isle of Man,HHS,KG,,,,76.19539,54.236107,-4.548056
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),833,Isle of Man,OOHC,KG,,,,25.57374,54.236107,-4.548056
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),833,Isle of Man,RTL,KG,,,,12.81298,54.236107,-4.548056
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),834,United Republic of Tanzania,HHS,KG,,,,119.08619,6.369,34.8888
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),834,United Republic of Tanzania,OOHC,KG,,,,27.64809,6.369,34.8888
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),834,United Republic of Tanzania,RTL,KG,,,,15.64024,6.369,34.8888
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),840,United States,HHS,KG,,,,58.83323,37.09024,-95.712891
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),840,United States,OOHC,KG,,,,63.61914,37.09024,-95.712891
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),840,United States,RTL,KG,,,,15.6544,37.09024,-95.712891
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),850,U.S. Virgin Islands,HHS,KG,,,,73.93561,18.335765,-64.896335
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),850,U.S. Virgin Islands,OOHC,KG,,,,25.57555,18.335765,-64.896335
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),850,U.S. Virgin Islands,RTL,KG,,,,12.81388,18.335765,-64.896335
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),854,Burkina Faso,HHS,KG,,,,102.69442,12.238333,-1.561593
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),854,Burkina Faso,OOHC,KG,,,,27.6481,12.238333,-1.561593
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),854,Burkina Faso,RTL,KG,,,,15.64024,12.238333,-1.561593
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),858,Uruguay,HHS,KG,,,,73.92011,-32.522779,-55.765835
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),858,Uruguay,OOHC,KG,,,,25.57019,-32.522779,-55.765835
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),858,Uruguay,RTL,KG,,,,12.81119,-32.522779,-55.765835
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),860,Uzbekistan,HHS,KG,,,,91.01614,41.377491,64.585262
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),860,Uzbekistan,OOHC,KG,,,,27.64806,41.377491,64.585262
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),860,Uzbekistan,RTL,KG,,,,15.64022,41.377491,64.585262
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),862,Venezuela,HHS,KG,,,,72.43209,6.42375,-66.58973
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),862,Venezuela,OOHC,KG,,,,27.64805,6.42375,-66.58973
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),862,Venezuela,RTL,KG,,,,15.64021,6.42375,-66.58973
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),882,Samoa,HHS,KG,,,,75.71581,-13.759029,-172.104629
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),882,Samoa,OOHC,KG,,,,27.64906,-13.759029,-172.104629
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),882,Samoa,RTL,KG,,,,15.64078,-13.759029,-172.104629
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),887,Yemen,HHS,KG,,,,103.7979,15.552727,48.516388
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),887,Yemen,OOHC,KG,,,,27.64805,15.552727,48.516388
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),887,Yemen,RTL,KG,,,,15.64022,15.552727,48.516388
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),894,Zambia,HHS,KG,,,,77.91985,-13.133897,27.849332
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),894,Zambia,OOHC,KG,,,,27.64802,-13.133897,27.849332
+12,12.3,12.3.1,AG_FOOD_WST_PC,Food waste per capita (KG),894,Zambia,RTL,KG,,,,15.6402,-13.133897,27.849332

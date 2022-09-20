@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+    <link rel= "stylesheet" href = "style.css">
+    
+    <head>
+    
+  <script src="//unpkg.com/d3"></script>
+  <script src="//unpkg.com/d3-dsv"></script>
+
+  <script src="//unpkg.com/globe.gl"></script>
+      <!--<script src="../../dist/three-globe.js"></script>-->
+    </head>
+
+    <body>
+      <div id =header> 
+          <h1>Waste Land</h1>
+          <h2>des</h2>
+      </div>    
+      <!--globe from WebGL-->
+      <div id="globeViz"></div>
+
+                    <script>
+                    /*global fetch*/
+                        const weightColor = d3.scaleSequentialSqrt()
+                          .interpolator(d3.interpolateLab("purple","orange"))
+                          // .domain([1e-1, 1e1]);
+                          .domain([1, 10])
+                          .range([0,300]);
+                       
+
+                        const world = Globe()
+                          (document.getElementById('globeViz'))
+                          .globeImageUrl('//unpkg.com/three-globe/example/img/earth-dark.jpg')
+                          .bumpImageUrl('//unpkg.com/three-globe/example/img/earth-topology.png')
+                          .backgroundImageUrl('https://media1.giphy.com/headers/anthonyantonellis/SqsFmi8lZMtI.gif')
+                          .hexBinPointWeight('Total')
+                          // .hexAltitude(d => d.sumWeight * 6e-8)
+                          .hexBinPointLat( 'lat')
+                          .hexBinPointLng( 'lng')
+                          .hexAltitude(d => d.sumWeight * 6e-4)
+                          .hexBinResolution(4)
+                          .hexTopColor(d => weightColor(d.sumWeight))
+                          .hexSideColor(d => weightColor(d.sumWeight))
+                          .hexBinMerge(false)
+                          // .hexLabel(d => `
+                        
+                          //     <b style ="font-size:400%;font-family:'Lato', sans-serif" > 
+                          //     Country: 
+                          //     <ul><li>
+                          //       ${d.properties.GeoAreaName}
+                          //     </li></ul>
+                          //     <b> 
+                          //   `
+                          //   );
+                          .hexLabel(d => `
+                           <div style ="font-size:400%;font-family:'Lato', sans-serif">
+                         Country : 
+                            </div>
+                          ` 
+                          )
+                          .enablePointerInteraction(true);
+                          
+                          // `
+                          //       <div style ="font-size:400%;font-family:'Lato', sans-serif"><b>Country + ${GeoAreaName} </b></div>
+                          //       <div style ="font-size:400%;font-family:'Lato', sans-serif">${Total}</div>
+                          //   ` + d.sumWeight);
+
+                        //   .enablePointerInteraction(false); // performance improvement
+               
+                         fetch('Data/totalwaste2019.json')
+                            .then(d => d.json())
+                            .then(total2019 => {
+                                  world.hexBinPointsData(total2019);
+                                  });
+                        
+
+                        // Add auto-rotation
+                        world.controls().autoRotate = true;
+                        world.controls().autoRotateSpeed = 0.8;
+                      </script>
+    </body>
+</html>
