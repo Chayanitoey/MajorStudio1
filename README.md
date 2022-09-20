@@ -20,7 +20,7 @@ Here is the mood board :
 Designed on Figma, screen size 1920 * 1080, horizontal screen. First step before designing the UI, I started with outlining components & interactions i.e. what the landing page looks like, how does animation would play in different scenarios, etc. 
 
 Here is an example of what that process looks likes :  
-![image](#)
+![image](https://github.com/Chayanitoey/MajorStudio1/blob/43cd1c30b7adb9c8c77a15c1b79dcec2487ff150/Assets/Figma%20BrainStorm.jpg)
 
 - **Hi-fidelity design** : 2 frames ( landing page and clicking state frame)
 
