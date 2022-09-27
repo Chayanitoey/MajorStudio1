@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel= "stylesheet" href = "style.css">
+  <script src="//unpkg.com/globe.gl"></script>
+  <script src="https://d3js.org/d3.v4.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.6.0/d3.min.js"></script>
+  <!--<script src="../../dist/globe.gl.js"></script>-->
+</head>
+      
+<body>
+    <div id="header"> 
+             <h1>Waste Land</h1>
+             <h4 onclick="showinfoBox()" style = "margin-left: 1300px;">How to read this?</h4>
+             <h4 href ="#">About this project</h4>
+     </div>  
+  <div id="globeViz">
+  </div>
+ 
+  <div id = "countryCard">
+    <h3 id= "countryName"></h3>
+    <li id = "foodwaste"></li>
+    <li id = "hazardwaste"></li>
+    <li id = "electronicwaste"></li>
+  </div>
+  
+    <div id="infoBox">
+      <button onclick = "showinfoBox()">X Close</button> 
+         <h2>What is this?</h2>
+         <p>
+           I'm baby neutra snackwave franzen sartorial la croix shoreditch migas fanny pack chia offal venmo succulents. Blog banh mi intelligentsia gatekeep humblebrag cornhole JOMO roof party. Squid af swag chillwave kombucha gluten-free copper mug knausgaard pitchfork butcher tote bag tbh. VHS disrupt tousled, keffiyeh actually readymade viral scenester cliche craft beer same poutine. Fit you probably haven't heard of them jianbing subway tile pitchfork. Ennui etsy blog, four loko VHS lomo cornhole kickstarter franzen bicycle rights gochujang. Readymade stumptown copper mug bushwick mustache heirloom af microdosing retro selfies.
+         </p>
+         <p>
+           Try-hard vexillologist four loko yes plz hexagon sustainable poutine sus crucifix pop-up paleo chicharrones jean shorts. Cred synth kinfolk, art party pickled listicle man bun gatekeep banjo swag coloring book etsy. Whatever beard polaroid unicorn, marfa knausgaard coloring book crucifix viral four loko. Craft beer 90's vexillologist artisan.
+         </p>
+         <br>
+         <h2>Note on the data</h2>
+         <p>I'm baby stumptown enamel pin cardigan dreamcatcher. Try-hard cronut put a bird on it next level tote bag, blue bottle viral live-edge man braid hella. Skateboard actually stumptown, craft beer asymmetrical ennui venmo single-origin coffee. Health goth coloring book hashtag, chillwave banh mi selfies beard tote bag neutra keffiyeh 90's pour-over bespoke. Marfa knausgaard gluten-free hoodie. Truffaut DSA you probably haven't heard of them meh PBR&B microdosing intelligentsia direct trade, hammock everyday carry ennui raclette farm-to-table selfies wayfarers. Live-edge deep v man braid small batch jean shorts microdosing edison bulb celiac echo park cray poke.
+         </p>
+    </div>
+    
+
+  <script>
+  
+  function showinfoBox(){
+    var infoBox = document.getElementById("infoBox");
+    if( infoBox.style.display == "block"){
+        infoBox.style.display = "none"
+    }else{
+         infoBox.style.display = "block"
+    }
+  }
+
+
+
+    const world = Globe()
+      (document.getElementById('globeViz'))
+      .globeImageUrl('//unpkg.com/three-globe/example/img/earth-dark.jpg')
+      .bumpImageUrl('//unpkg.com/three-globe/example/img/earth-topology.png')
+      .backgroundImageUrl('Assets/bg3.jpg')
+      .showGraticules(true)
+      .pointOfView({ altitude: 4 }, 5000)
+      .polygonCapColor(feat => 'rgba(181, 251, 255, 1)')
+      .polygonSideColor(() => 'rgba(245, 192, 208, 0.05)')
+      .polygonStrokeColor(() => 'rgba(1, 62, 66, 1)')
+      .polygonLabel(({ properties: d }) => `
+          <div style ="font-size: 100%;font-family:'Lato',sans-serif;background-color:black"> 
+          <b style = "font-size:200%; color:#F5C0D0 " >${d.ADMIN}</b><br/>
+          Total waste generated per capita in 2019: <br/> 
+          <b style = "font-size: 300%;"> ${d.Total}</b>
+          KG
+          </div>
+        `);
+
+    // Auto-rotate
+    world.controls().autoRotate = true;
+    world.controls().autoRotateSpeed = 0.8;
+
+
+    fetch('Data/merge__test.geojson')
+    .then(res => res.json())
+    .then(countries => {
+      // getting country names & lat + long from the geojson data
+    var countryList = [] 
+     for (var key in countries.features) {
+        var geoData = countries.features[key].properties.GeoAreaName
+        var latitude = countries.features[key].properties.lat
+        var longtitude = countries.features[key].properties.lng
+        var altitude = (countries.features[key].properties.Total *.01)
+        countryList.push(geoData + ',' + latitude + ',' +longtitude + ',' +altitude)
+        // console.log(countryList)
+    }
+    
+    // putting country names & lat + long into one array
+    var arrCountry = Object.values(countryList)
+
+         // now setting up id elements where the country list will be placed
+          const list = document.getElementById('globeViz');
+          const countrycard = document.getElementById('countryCard');
+          const ul = document.createElement('ul');
+          const h2 = document.createElement('h2');
+          h2.appendChild(document.createTextNode('Browse by country'));
+          ul.appendChild(h2);
+
+          const entry = document.createElement('li');
+
+          for(var i =0; i< arrCountry.length; i++){
+          // splitting the string to get each name & lat+long 
+            const arrlist = arrCountry[i].split(',')
+            
+            if(arrlist[0] !== 'undefined'){
+            const li = document.createElement('li');
+            li.innerHTML = arrlist[0];
+            ul.appendChild(li)
+
+            // adding function to change viewpoint to the clicked country's lat & long
+              li.onclick = function() { 
+                    // li.style.color = "red";
+                    world.polygonLabel()
+                    world.pointOfView({lat: arrlist[1], lng: arrlist[2], altitude:arrlist[3]-0.3},10)
+                    // world.polygonCapColor( () => '#5627E7')
+                    world.controls().autoRotate = false;
+                    // activate the country card function on the right side
+                    showcountrycard(arrlist);
+              };
+            }
+          }
+          list.appendChild(ul);
+     
+      world.polygonsData(countries.features.filter(d => d.properties.ISO_A2 !== 'AQ'));
+      setTimeout(() => world
+        .polygonsTransitionDuration(4000)
+        // .polygonAltitude(feat => Math.max(0.2,feat.properties.Total * 7e-5))
+         .polygonAltitude(feat => feat.properties.Total*.01)
+      , 3000);
+    });
+ 
+  function showcountrycard(d){
+    // / fetching another json file to get other info about that country
+      var x = document.getElementById("countryCard");
+      var cn = document.getElementById("countryName");
+      var f = document.getElementById("foodwaste");
+      var h = document.getElementById("hazardwaste");
+      var e = document.getElementById("electronicwaste");
+      
+        x.style.display = "block";
+            fetch('Data/TotalWastedata.json')
+                .then(res => res.json())
+                .then(function(data){ 
+
+                for(var i =0; i< data.length;i++ ){
+                  // var totalHazard = 0;
+                  // var totalElectric = 0;
+       
+
+                // adding all the information about the data points
+                        if(d[0] == data[i].GeoAreaName){
+                          cn.innerHTML = data[i].GeoAreaName
+                        }
+                        if(d[0] == data[i].GeoAreaName && data[i].SeriesCode == "AG_FOOD_WST_PC"){
+                         f.innerHTML = " In 2019, on average, each person in " + data[i].GeoAreaName +  " has wasted about " + ` <b style = "color: #59F5FF;font-size: 150%;"> ${Math.round(parseInt(data[i].FoodTotal) * 100)/ 100} </b>`+ ' kg on food alone.'
+                        }
+                        if(d[0] == data[i].GeoAreaName && data[i].SeriesCode == "EN_HAZ_PCAP"){
+                         var totalHazard =  parseInt(data[i]['2019']) + parseInt(data[i]['2016']) + parseInt(data[i]['2017']) + parseInt(data[i]['2018'])
+                         h.innerHTML = 'From 2016 to 2019, the amount of  chemical waste in this country is ' + ` <b style = "color: #59F5FF;font-size: 150%;"> ${Math.round(totalHazard * 100) / 100} </b>`+ ' kg /per capita'
+                        }
+                        else if(d[0] == data[i].GeoAreaName && data[i].SeriesCode !== "EN_HAZ_PCAP"){
+                        h.innerHTML = ""
+                        }
+                        if(d[0] == data[i].GeoAreaName && data[i].SeriesCode == "EN_EWT_GENPCAP"){
+                          var totalElectric = (parseInt(data[i]['2019']) + parseInt(data[i]['2016']) + parseInt(data[i]['2017']) + parseInt(data[i]['2018']))
+                          e.innerHTML = 'Electronic waste per capita is also at ' + `<b style = "color: #59F5FF;font-size: 150%;">${totalElectric}</b>`+ ' kg.'
+                        }
+                        else if(d[0] == data[i].GeoAreaName && data[i].SeriesCode !== "EN_EWT_GENPCAP"){
+                        e.innerHTML = ''
+                        }
+                // adding the D3 stack bar chart
+                /*global d3*/
+                var arrCountry = [
+                  {
+                  "GeoAreaName" :"",
+                  "WasteData" :{ 
+      
+                      "FoodWaste" : "",
+                      "totalHazard" : "",
+                      "totalElectric" : ""
+                    }
+                  }]
+                
+           
+                arrCountry[0]['GeoAreaName'] = data[i].GeoAreaName;
+ 
+                // console.log(data[i].GeoAreaName) // group
+                // console.log(data[i].SeriesCode) // subgroup
+                
+                // console.log(data[i].FoodTotal) // value if Series Code = AG_FOOD_WST_PC
+                if(arrCountry[0]['GeoAreaName'] = data[i].GeoAreaName){
+                  if(data[i].SeriesCode == "AG_FOOD_WST_PC" ){
+                      arrCountry[0]['WasteData']['FoodWaste']= data[i].FoodTotal;
+                  }
+                  if(data[i].SeriesCode == "EN_HAZ_PCAP"){
+                    arrCountry[0]['WasteData']['totalHazard'] =  parseInt(data[i]['2019']) + parseInt(data[i]['2016']) + parseInt(data[i]['2017']) + parseInt(data[i]['2018'])
+                  // console.log(totalHazard) // value if Series Code = AG_FOOD_WST_PC
+                    }
+                    if(data[i].SeriesCode == "EN_EWT_GENPCAP"){
+                    arrCountry[0]['WasteData']['totalElectric']= (parseInt(data[i]['2019']) + parseInt(data[i]['2016']) + parseInt(data[i]['2017']) + parseInt(data[i]['2018']))
+                  // console.log(totalElectric) // value if Series Code = AG_FOOD_WST_PC
+                  }
+                  
+                }
+                    
+                 
+                console.log(arrCountry[0])
+
+                }
+        
+             })
+  }
+  </script>
+</body>
+</html>
