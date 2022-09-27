@@ -1,0 +1,155 @@
+@import url('http://fonts.cdnfonts.com/css/libre-franklin');
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap');
+
+
+#header a{
+     font-family: 'Libre Franklin', sans-serif;
+     font-weight: lighter;
+     font-size: 100%;
+     /*margin-left:2%;*/
+     margin-top:1.5%;
+     float: left;
+     padding: 14px 16px;
+     color:white;
+}
+h1{
+    font-size: 40px; 
+    margin-top: 1.5%;
+    margin-left: 1%;
+    font-family: 'Libre Franklin', sans-serif;
+    font-weight: lighter;
+    float: left;
+    padding: 14px 16px;
+}
+h4{
+     font-family: 'Libre Franklin', sans-serif;
+     font-weight: lighter;
+     font-size: 100%;
+     /*margin-left:2%;*/
+     margin-top:1.5%;
+     float: left;
+     padding: 14px 16px;
+     color:white;
+    
+}
+
+#header{
+    height:100px;
+    margin-top: 0;
+    background-color:black;
+    position:-webkit-sticky; /* Safari */
+    position: sticky;
+    color:white;
+
+}
+body{
+     background-color:black;
+}
+/*#globeViz{*/
+    /*float:none;*/
+/*}*/
+ul{
+  width:15vw;
+  position: absolute;
+  top: 120px;
+  background-color:black;
+  overflow-y: scroll;
+  height: 100vh;
+  list-style-type: none;
+}
+
+li{
+  font-weight: lighter;
+  font-size: 100%;
+  color:white;
+  font-family: 'Lato', sans-serif;
+  line-height: 1.6;
+}
+
+h2{
+  font-size: 150%;
+  font-weight: lighter;
+  color:white;
+  text-align: left;
+  font-family: 'Lato', sans-serif;
+}
+
+h3{
+  font-weight: bold;
+  font-size: 300%;
+  color:white;
+  font-family: 'Lato', sans-serif;
+}
+
+#countryCard{
+  width: 20vw;
+  padding: 20px 20px;
+  text-align: left;
+  background-color: #5627E7;
+  position: absolute;
+  top: 140px;
+  left: 1500px;  
+  display:none;
+  color:white;
+  list-style-type: none;
+}
+#countryCard li{
+    color: white;
+}
+
+#infoBox{
+  background-color: black;
+  padding: 30px 30px;
+  display:none;
+  width: 800px;
+  height: 500px;
+  left: 35vw;
+  top: 30vh;
+  position: absolute;
+  color: #404141;
+  overflow-y: scroll;
+}
+
+p{
+  font-weight: lighter;
+  font-family: 'Lato', sans-serif;
+  font-size: 16px;
+  color:white;
+  line-height: 26px;
+}
+
+button {
+  color:white;
+  float:right;
+  background-color: #5627E7;
+  border-radius: 10px;
+  padding: 5px 5px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 10px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+/*setting the hover states*/
+#heder a:hover {
+  color: #59F5FF;
+}
+h4:hover{
+   color: #59F5FF;
+   background-color: #5627E7;
+   border-radius: 10px;
+   padding: 5px 5px;
+}
+ul li:hover{
+   color: #59F5FF;
+}
+ul li:active{
+   color: #5627E7;
+}
+
+
+/*.globeviz{*/
+/*    float: none;*
+/*}*/
