@@ -16,6 +16,7 @@ The idea is to reimagine the world that would show how it could be if we conside
 
 
 ## Process ( total ~ 28 hrs) 
+** For design process please refer to [design&prototype branch documentation](https://github.com/Chayanitoey/MajorStudio1/tree/Design%26Prototype) - concept 1 is chosen for this iteration. ** 
 
 - Data : Json data (pulled from UN portal with a little data wrangling work + merged with geolocation file)  and GeoJson( randomly found this data on Github, then merge the original file with my json file(filtered to only show total waste data , lat , long )  (~4hrs)
 - WebGL  : Mainly use globe Gl which is a UI component using three.js & [webGL](https://globe.gl/)  ( ~6 hrs) 
@@ -25,7 +26,6 @@ The idea is to reimagine the world that would show how it could be if we conside
 ## Demo
 [Link to demo](https://chayanitoey.github.io/MajorStudio1/) 
 
-[image](#)
 
 ## Next Steps + Key Learnings
 
