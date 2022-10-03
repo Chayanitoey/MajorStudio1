@@ -38,3 +38,9 @@ The idea is to reimagine the world that would show how it could be if we conside
 
 - It would be more helpful to **do due diligence on the data** before deciding on using the data set; I found that the data from UN portal seems to be overwhelmingly biased and may not represent facts. 
 - Iterating more / improving  on the design concept before jump to the coding process. 
+
+
+## Support or Questions
+
+For support or if you have any questions about this project, email chayanit@newschool.edu .
+
