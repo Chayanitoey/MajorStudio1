@@ -25,6 +25,7 @@ The idea is to reimagine the world that would show how it could be if we conside
 
 ## Demo
 [Link to demo](https://chayanitoey.github.io/MajorStudio1/) 
+![image](https://github.com/Chayanitoey/MajorStudio1/blob/43cd1c30b7adb9c8c77a15c1b79dcec2487ff150/Assets/Figma%20BrainStorm.jpg)
 
 
 ## Next Steps + Key Learnings
